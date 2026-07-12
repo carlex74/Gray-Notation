@@ -1,0 +1,62 @@
+/* Fondo transparente en Obsidian */
+
+/* Contenedores principales */
+.workspace-leaf,
+.workspace-tab-header-container,
+.workspace-split.mod-root,
+.workspace-split.mod-root .view-content,
+.workspace-split.mod-root .view-header,
+.workspace-tabs,
+.workspace-tab-header,
+.workspace-tab-header.is-active,
+.view-header,
+.view-content,
+.markdown-source-view .cm-contentContainer,
+.markdown-reading-view {
+  background: transparent !important;
+  background-color: transparent !important;
+}
+
+/* Eliminar sombras internas que pueden añadir opacidad visual */
+.workspace-split.mod-root {
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Separadores entre paneles */
+.workspace-leaf-resize-handle,
+.workspace-split.mod-horizontal > .workspace-split-handle,
+.workspace-split.mod-vertical > .workspace-split-handle {
+  background: transparent !important;
+}
+
+/* Título de la pestaña activa */
+.view-header-title-container:not(.mod-at-end):after {
+  background: transparent !important;
+}
+
+/* Editor (modo source) */
+.markdown-source-view .cm-content,
+.markdown-source-view .cm-gutters {
+  background: transparent !important;
+}
+
+/* Vista de lectura */
+.markdown-preview-view {
+  background: transparent !important;
+}
+
+/* Opcional: fondo del menú lateral (si quieres que también sea transparente) */
+.sidebar,
+.sidebar-left,
+.sidebar-right,
+.sidebar-tabs,
+.sidebar-tab-content {
+  background: transparent !important;
+}
+
+/* Evitar fondos blancos en modals o overlays (opcional) */
+.modal,
+.under-pane,
+.workspace-leaf-drag-active {
+  background: transparent !important;
+}
