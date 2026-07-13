@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "es/Documentacion/Conceptos-Avanzados.md",
+                "file": "es/Documentacion/Conceptos-Basicos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conceptos-Avanzados"
+              "title": "Conceptos-Basicos"
+            }
+          },
+          {
+            "id": "89f5490e523c5fe5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/ejemplo-dardo.png"
+              },
+              "icon": "lucide-image",
+              "title": "ejemplo-dardo"
             }
           }
         ]
@@ -198,6 +210,17 @@
   },
   "active": "d336f179cbdd76c9",
   "lastOpenFiles": [
+    "Assets/ejemplo-superbloque.png",
+    "Assets/ejemplo-relaciones.png",
+    "Assets/ejemplo-lista.png",
+    "Assets/ejemplo-comentarios-3.png",
+    "Assets/ejemplo-comentarios-2.png",
+    "Assets/ejemplo-comentarios.png",
+    "Assets/ejemplo-jerarquia.png",
+    "Assets/ejemplo-concepto-2.png",
+    "Assets/ejemplo-concepto.png",
+    "Assets/ejemplo-dardo-doble-2.png",
+    "Assets/ejemplo-dardo-doble.png",
     "es/Documentacion/Conceptos-Basicos.md",
     "es/Documentacion/Conceptos-Avanzados.md",
     "es/Introduccion.md",
@@ -212,16 +235,6 @@
     "es",
     "Casos.md",
     "notas reales",
-    "Assets/Pasted image 20260711134048.png",
-    "Assets/Pasted image 20260711134021.png",
-    "Assets/Pasted image 20260711134000.png",
-    "Assets/Pasted image 20260711133905.png",
-    "Assets/Pasted image 20260711133845.png",
-    "Assets/Pasted image 20260711133813.png",
-    "Assets/Pasted image 20260711133751.png",
-    "Assets/Pasted image 20260711133734.png",
-    "Assets/Pasted image 20260711133652.png",
-    "Assets/Pasted image 20260711133616.png",
     "Assets",
     "es/Documentacion",
     "Notas rapidas.md",

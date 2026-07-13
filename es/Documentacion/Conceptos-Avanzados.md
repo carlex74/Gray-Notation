@@ -9,7 +9,7 @@ Para no perder ese contexto, Gray Notation formaliza algo que solemos hacer de f
 
 Un **Superbloque** es la agrupación visual de dos o más bloques continuos. Su función principal es permitirte extraer una conclusión, un resumen o un comentario general a partir de ese grupo, asignándole su propio nivel de importancia (usando dardos, círculos, etc.).
 
-![[Assets/Pasted image 20260711134048.png]]
+![[ejemplo-superbloque.png]]
 
 # Relaciones
 
@@ -19,7 +19,7 @@ Un **Superbloque** es la agrupación visual de dos o más bloques continuos. S
 
 Una Relación es una línea conectora simple que vincula un bloque nuevo con uno anterior que quedó cortado por otra información. Es la forma de decirle a tu cerebro: "este párrafo que está aquí abajo es la continuación directa de lo que escribí arriba".
 
-![[Assets/Pasted image 20260711134021.png]]
+![[ejemplo-relaciones.png]]
 
 
 Las relaciones son perfectas para conectar ideas que están relativamente cerca en la misma hoja. Sin embargo, si la información relacionada está muy dispersa (por ejemplo, separada por varias páginas), trazar líneas largas haría que tus apuntes se vean caóticos y desprolijos.

@@ -32,52 +32,52 @@ A continuación, se detallan los símbolos fundamentales del sistema junto con e
 Es el símbolo fundamental de Gray Notation. Su función es identificar un bloque de manera inequívoca.
 
 
-![[Assets/Pasted image 20260711133419.png]]
+![[ejemplo-dardo.png]]
 
 Ejemplo con anidación
 
 
-![[Assets/Pasted image 20260711133444.png]]
+![[ejemplo-anidacion.png]]
 
 
 ### Circulo
 
 Se utiliza para destacar que un bloque contiene ideas clave. Señala que la información es relevante y conviene priorizar su lectura durante las sesiones de repaso.
 
-![[Assets/Pasted image 20260711133523.png]]
+![[ejemplo-circulo.png]]
 
 ### Dardo doble
 
 Se emplea para identificar **información crítica o de una importancia superior a la destacada con el símbolo del circulo**. Denota que el bloque contiene datos de máxima prioridad que requieren atención inmediata y obligatoria al estudiar.
 
-![[Assets/Pasted image 20260711133602.png]]
+![[ejemplo-dardo-doble.png]]
 
 
 > [!info] 
 > Se pueden concatenar más dardos para crear niveles de importancia personalizados y priorizar un bloque específico por encima de los que poseen dardos dobles.
 
 
-![[Assets/Pasted image 20260711133616.png]]
+![[ejemplo-dardo-doble-2.png]]
 ### Concepto
 
 Se usa para denotar que la información de un bloque esta relacionada con un concepto, definición o cita.
 
 Se usa para indicar que la información del bloque corresponde a una definición explícita de alguna idea o concepto, un glosario de términos o una cita textual importante
 
-![[Assets/Pasted image 20260711133652.png]]
+![[ejemplo-concepto.png]]
 
 
 > [!info] 
 > Tambien tiene una version para denotar importancia de una definicion.
 
-![[Assets/Pasted image 20260711133734.png]]
+![[ejemplo-concepto-2.png]]
 
 ### Lista
 
 Permite desglosar y organizar múltiples elementos dentro de un mismo bloque principal.
 
 
-![[Assets/Pasted image 20260711133751.png]]
+![[ejemplo-lista.png]]
 
 
 > [!warning] 
@@ -92,7 +92,7 @@ El objetivo principal de Gray Notation es transformar el repaso: pasar de una le
 
 El orden de lectura, de menor a mayor prioridad, es el siguiente:
 
-![[Assets/Pasted image 20260711133813.png]]
+![[ejemplo-jerarquia.png]]
 
 ## Comentarios
 
@@ -100,20 +100,20 @@ Se usan para expandir o complementar la informacion de un bloque
 
 Los comentarios son derivaciones visuales que sirven para expandir, complementar, aclarar o añadir notas personales a la información de un bloque principal, sin interrumpir el flujo del texto original.
 
-![[Assets/Pasted image 20260711133845.png]]
+![[ejemplo-comentarios.png]]
 
 
 
 > [!info] 
 >  Los comentarios pueden anidarse dentro de otros comentarios (sub-comentarios).
 
-![[Assets/Pasted image 20260711133905.png]]
+![[ejemplo-comentarios-2.png]]
 
 > [!info] 
 >  Pueden utilizar la misma simbología de importancia (Dardo, Círculo, etc.) que los bloques normales para indicar la relevancia de la nota añadida.
 
 
-![[Assets/Pasted image 20260711134000.png]]
+![[ejemplo-comentarios-3.png]]
 
 
 

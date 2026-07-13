@@ -30,12 +30,12 @@ Para estos ejemplos se tratara de representar lo mas fielmente posible un cuader
 Es el símbolo mas básico, su función es identificar un bloque de manera inequívoca.
 
 
-![[Pasted image 20260711133419.png]]
+![[ejemplo-dardo.png]]
 
 Ejemplo con anidación
 
 
-![[Pasted image 20260711133444.png]]
+![[ejemplo-anidacion.png]]
 
 
 
@@ -45,33 +45,33 @@ Ejemplo con anidación
 Se usa para denotar que un bloque es importante o que la información encontrada en él es importante y conviene priorizar su lectura a la hora de repasar.
 
 
-![[Pasted image 20260711133523.png]]
+![[ejemplo-circulo.png]]
 
 ### Dardo doble
 
 Se usa para denotar que una información que se encuentra en un bloque es super importante y requiere su atencion prioritaria a la hora de repasar.
 
-![[Pasted image 20260711133602.png]]
+![[ejemplo-dardo-doble.png]]
 
 
 nota: se pueden concatenar mas dardos para denotar que un bloque es mas importante a la hora de leer por sobre los demás bloques con dardos dobles.
 
-![[Pasted image 20260711133616.png]]
+![[ejemplo-dardo-doble-2.png]]
 ### Concepto
 
 Se usa para denotar que la información de un bloque esta relacionada con un concepto, definición o cita.
 
-![[Pasted image 20260711133652.png]]
+![[ejemplo-concepto.png]]
 
 
 nota: Tambien tiene una version para denotar importancia
 
-![[Pasted image 20260711133734.png]]
+![[ejemplo-concepto-2.png]]
 ### Lista
 
 Se usa para listar distintos elementos dentro de un bloque para organizar informacion.
 
-![[Pasted image 20260711133751.png]]
+![[ejemplo-lista.png]]
 
 nota: los simbolos usados para cada item de la lista queda a interpretacion y modificacion a gusto de cada persona.
 
@@ -83,24 +83,24 @@ Visto los símbolos mas básicos se presenta el orden de lectura de los mismos e
 
 Con esto se busca que la lectura de las notas deje de ser una búsqueda engorrosa de información a ser una lectura jerárquica resaltando los conceptos en grado de importancia.
 
-![[Pasted image 20260711133813.png]]
+![[ejemplo-jerarquia.png]]
 
 ## Comentarios
 
 Se usan para expandir o complementar la informacion de un bloque 
 
-![[Pasted image 20260711133845.png]]
+![[ejemplo-comentarios.png]]
 
 
 nota: Los comentarios tambien se pueden anidar y usar los mismos simbolos que se usan en un bloque normal.
 
-![[Pasted image 20260711133905.png]]
+![[ejemplo-comentarios-2.png]]
 
 
 
 
 
-![[Pasted image 20260711134000.png]]
+![[ejemplo-comentarios-3.png]]
 
 
 
