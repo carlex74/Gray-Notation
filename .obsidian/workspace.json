@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "Conceptos-Avanzados"
             }
-          },
-          {
-            "id": "89f5490e523c5fe5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/ejemplo-dardo.png"
-              },
-              "icon": "lucide-image",
-              "title": "ejemplo-dardo"
-            }
           }
         ]
       }
@@ -211,6 +199,8 @@
   "active": "d336f179cbdd76c9",
   "lastOpenFiles": [
     "es/Documentacion/Conceptos-Basicos.md",
+    "es/Documentacion/Conceptos-Avanzados.md",
+    "Assets/ejemplo-dardo.png",
     "Assets/ejemplo-superbloque.png",
     "Assets/ejemplo-relaciones.png",
     "Assets/ejemplo-lista.png",
@@ -220,8 +210,6 @@
     "Assets/ejemplo-jerarquia.png",
     "Assets/ejemplo-concepto-2.png",
     "Assets/ejemplo-concepto.png",
-    "Assets/ejemplo-dardo-doble-2.png",
-    "es/Documentacion/Conceptos-Avanzados.md",
     "es/Introduccion.md",
     "README.md",
     "ruta-al-archivo",

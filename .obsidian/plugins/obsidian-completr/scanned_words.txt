@@ -4397,6 +4397,7 @@ pUq
 pvu
 pYM
 pwp
+png
 este
 es
 el
@@ -6660,6 +6661,7 @@ ANY
 ASG
 AGoX
 Aec
+Assets
 Dadas
 Definici
 Diferencia
@@ -11658,6 +11660,7 @@ jAe
 jDD
 jwZp
 jRVz
+jerarquia
 Yr
 Yi
 Yx

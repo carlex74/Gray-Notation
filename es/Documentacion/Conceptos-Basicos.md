@@ -22,7 +22,10 @@ Estos símbolos son el motor del sistema, ya que transforman una lectura lineal 
 
 A continuación, se detallan los símbolos fundamentales del sistema junto con ejemplos prácticos de su aplicación.
 
-> [!info] Nota sobre la representación visual  
+> [!note] 
+> 
+> Nota sobre la representación visual  
+> 
 > Para propósitos ilustrativos, las imágenes de este manual simulan el entorno de un **cuaderno cuadriculado tamaño A4**. Esto tiene como objetivo demostrar fielmente cómo se gestiona el espaciado y la distribución de los símbolos al tomar apuntes físicos reales.
 
 ### Dardo
@@ -52,7 +55,7 @@ Se emplea para identificar **información crítica o de una importancia superior
 ![ejemplo-dardo-doble](../../Assets/ejemplo-dardo-doble.png)
 
 
-> [!info]
+> [!note]
 > Se pueden concatenar más dardos para crear niveles de importancia personalizados y priorizar un bloque específico por encima de los que poseen dardos dobles.
 
 
@@ -68,7 +71,7 @@ Se usa para indicar que la información del bloque corresponde a una definición
 ![ejemplo-concepto](../../Assets/ejemplo-concepto.png)
 
 
-> [!info]
+> [!note]
 > Tambien tiene una version para denotar importancia de una definicion.
 
 ![ejemplo-concepto-2](../../Assets/ejemplo-concepto-2.png)
@@ -107,13 +110,13 @@ Los comentarios son derivaciones visuales que sirven para expandir, complementar
 
 
 
-> [!info]
+> [!note]
 > Los comentarios pueden anidarse dentro de otros comentarios (sub-comentarios).
 
 ![ejemplo-comentarios-2](../../Assets/ejemplo-comentarios-2.png)
 
 
-> [!info]
+> [!note]
 > Pueden utilizar la misma simbología de importancia (Dardo, Círculo, etc.) que los bloques normales para indicar la relevancia de la nota añadida.
 
 
