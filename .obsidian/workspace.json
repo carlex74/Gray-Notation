@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "es/Documentacion/Conceptos-Basicos.md",
+                "file": "es/Documentacion/Conceptos-Avanzados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conceptos-Basicos"
+              "title": "Conceptos-Avanzados"
             }
           },
           {
@@ -210,6 +210,7 @@
   },
   "active": "d336f179cbdd76c9",
   "lastOpenFiles": [
+    "es/Documentacion/Conceptos-Basicos.md",
     "Assets/ejemplo-superbloque.png",
     "Assets/ejemplo-relaciones.png",
     "Assets/ejemplo-lista.png",
@@ -220,8 +221,6 @@
     "Assets/ejemplo-concepto-2.png",
     "Assets/ejemplo-concepto.png",
     "Assets/ejemplo-dardo-doble-2.png",
-    "Assets/ejemplo-dardo-doble.png",
-    "es/Documentacion/Conceptos-Basicos.md",
     "es/Documentacion/Conceptos-Avanzados.md",
     "es/Introduccion.md",
     "README.md",
