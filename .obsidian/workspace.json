@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "es/Documentacion/Conceptos-Avanzados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Conceptos-Avanzados"
             }
           }
         ]
@@ -198,10 +198,10 @@
   },
   "active": "d336f179cbdd76c9",
   "lastOpenFiles": [
+    "es/Documentacion/Conceptos-Basicos.md",
+    "es/Documentacion/Conceptos-Avanzados.md",
     "es/Introduccion.md",
     "README.md",
-    "es/Documentacion/Conceptos-Avanzados.md",
-    "es/Documentacion/Conceptos-Basicos.md",
     "ruta-al-archivo",
     "en/Introduccion.md",
     "en/Documentacion/Conceptos-Basicos.md",

@@ -27,6 +27,6 @@ Como se recalco en un inicio, Gray Notation no trata de imponer un sistema al qu
 
 # Temas
 
-1. [Conceptos Basicos](es/Documentacion/Conceptos-Basicos.md)
-2. [Conceptos Avanzados](es/Documentacion/Conceptos-Avanzados.md)
+1. [Conceptos Basicos](./Documentacion/Conceptos-Basicos.md)
+2. [Conceptos Avanzados](./Documentacion/Conceptos-Avanzados.md)
 
