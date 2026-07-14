@@ -1,21 +1,26 @@
 
 # 📝 Gray Notation
 
-**Un sistema estructurado, flexible y visual para la toma de notas en papel.**
+**A structured, flexible and visual system for taking notes on paper.**
 
-Gray Notation no es una aplicación, es una **metodología**. Nace para solucionar el caos de los apuntes tradicionales, ofreciendo un conjunto de símbolos y reglas simples que transforman hojas de papel desordenadas en apuntes jerárquicos, fáciles de leer y listos para estudiar. 
+Gray Notation isn’t an app; it’s a **methodology**. It was created to tackle the chaos of traditional note-taking, offering a set of simple symbols and rules that transform messy sheets of paper into hierarchical, easy-to-read notes that are ready for revision. 
 
-✨ **Características Principales:**
-* **Sin depender de colores:** Funciona perfecto con un solo bolígrafo o lápiz.
-* **Lectura Jerárquica:** Tu vista irá directamente a lo importante a la hora de repasar.
-* **Soluciona el formato analógico:** Herramientas visuales para conectar ideas dispersas cuando el profesor "salta de tema".
-* **Flexible:** Es un punto de partida; puedes (y debes) adaptarlo a tus necesidades.
+✨ **Key Features:**
+* **No need for colours:** Works perfectly with just a single pen or pencil.
+* **Hierarchical reading:** Your eyes will go straight to the important bits when revising.
+* **Solves the problem of analogue note-taking:** Visual tools to connect scattered ideas when the teacher ‘jumps from one topic to another’.
+* **Flexible:** It’s a starting point; you can (and should) adapt it to your needs.
+
+> [!important] 
+> Gray Notation is currently in beta, so there is still content to be added and translated
+
+
 
 ---
 
 ## 📖 Documentación / Documentation
 
-El manual oficial está dividido en secciones cortas para facilitar su aprendizaje. Elige tu idioma:
+The official manual is divided into short sections to make it easier to follow. Choose your language:
 
 ### 🇪🇸 Español
 
@@ -30,12 +35,17 @@ El manual oficial está dividido en secciones cortas para facilitar su aprendiza
 
 ### 🇬🇧 English
 
+* [1. Introduction and Philosophy](en/Introduction.md) *(What is it and why use it?)*
+* [2. Basic Symbols](en/Documentation/Basic-Concepts.md) *(Hierarchical reading and blocks)*
+* [3. Advanced Concepts](en/Documentation/Advanced-Concepts.md) *(Superblocks, Relationships and Groups)*
+
+
 *(Work in progress / Traducción en proceso)*
 
 
 
 ---
 
-## 🤝 Contribuciones y Feedback
-Gray Notation es un sistema vivo. Si tienes ideas para nuevos símbolos, mejoras en la documentación o ejemplos de cómo usas el sistema en tus clases, ¡las sugerencias son bienvenidas! Puedes abrir un *Issue* o compartir tus apuntes.
+## 🤝 Contributions and Feedback
+Gray Notation is a living system. If you have ideas for new symbols, improvements to the documentation, or examples of how you use the system in your lessons, we’d love to hear your suggestions! You can open an *Issue* or share your notes.
 
