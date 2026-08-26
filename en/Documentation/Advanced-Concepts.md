@@ -38,7 +38,8 @@ The aim is to allow you to read in a ‘filtered’ way: thanks to groups, you c
 ![ejemplo-grupos|685](../../Assets/ejemplo-grupos.png)
 
 
-> [!tip] Customise your labels
+> [!tip] 
+> **Customise your labels:**
 > In the examples, we usually use symbols (modifiers) such as circles or squares, but **you are in charge of your own system**. You can use triangles, diamonds, letters or any symbol that you find quick to draw. Think of them as ‘blank labels’ ready to be used.
 
 ## Defining Groups
@@ -54,7 +55,8 @@ It involves explicitly noting, in a small box, what each symbol means for that s
 ![ejemplo-grupos-avanzado|685](../../Assets/ejemplo-grupos-avanzado.png)
 
 
-> [!info] Best Practice for Placement
+> [!info] 
+> **Best Practice for Placement:**
 > Although you can place your declaration anywhere, my personal recommendation is to put it **in the top left-hand corner of the page**. This way, it acts as an immediate visual index every time you turn the page.
 
   

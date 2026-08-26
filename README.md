@@ -27,6 +27,7 @@ The official manual is divided into short sections to make it easier to follow. 
 * [1. Introducción y Filosofía](es/Introduccion.md) *(¿Qué es y por qué usarlo?)*
 * [2. Símbolos Básicos](es/Documentacion/Conceptos-Basicos.md) *(Lectura jerárquica y bloques)*
 * [3. Conceptos Avanzados](es/Documentacion/Conceptos-Avanzados.md) *(Superbloques, Relaciones y Grupos)*
+* [4. Estructura y Formato](es/Documentacion/Estructura-y-Formato.md) *(Encabezados, Divisores)*
 
 *(Work in progress)*
 
@@ -38,6 +39,7 @@ The official manual is divided into short sections to make it easier to follow. 
 * [1. Introduction and Philosophy](en/Introduction.md) *(What is it and why use it?)*
 * [2. Basic Symbols](en/Documentation/Basic-Concepts.md) *(Hierarchical reading and blocks)*
 * [3. Advanced Concepts](en/Documentation/Advanced-Concepts.md) *(Superblocks, Relationships and Groups)*
+* [4. Structure and Format](en/Documentation/Structure-and-Format.md) *(Headings, Dividers)*
 
 
 *(Work in progress / Traducción en proceso)*

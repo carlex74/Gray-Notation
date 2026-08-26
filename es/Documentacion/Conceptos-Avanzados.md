@@ -38,7 +38,7 @@ El objetivo es permitirte hacer una lectura "filtrada": gracias a los grupos, pu
 
 
 > [!tip] 
-> Personaliza tus etiquetas
+> **Personaliza tus etiquetas:**
 > En los ejemplos solemos usar símbolos (modificadores) como círculos o cuadrados, pero **tú eres el dueño de tu sistema**. Puedes usar triángulos, rombos, letras o cualquier símbolo que te resulte rápido de dibujar. Piensa en ellos como "etiquetas en blanco" listas para ser usadas.
 ## Declaración de Grupos
 
@@ -54,5 +54,5 @@ Consiste en anotar explícitamente, en un pequeño recuadro, qué significado ti
 
 
 > [!note] 
-> Mejor Práctica de Ubicación
+> **Mejor Práctica de Ubicación:**
 > Aunque puedes hacer tu declaración en cualquier parte, por recomendación personal es ubicarla **arriba a la izquierda de la hoja**. De esta forma, actúa como un índice visual inmediato cada vez que pasas de página.

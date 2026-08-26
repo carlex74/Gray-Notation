@@ -23,4 +23,5 @@ As emphasised at the outset, Gray Notation does not seek to impose a rigid syste
 
 1. [Basic Concepts](./Documentation/Basic-Concepts.md)
 2. [Advanced Concepts](./Documentation/Advanced-Concepts.md)
+3. [Structure and Format](./Documentation/Structure-and-Format.md)
 
