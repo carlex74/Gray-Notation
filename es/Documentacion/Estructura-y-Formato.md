@@ -23,3 +23,7 @@ Para evitar que la información de contextos distintos se mezcle visualmente, ut
 Consiste en trazar una **línea discontinua o punteada** (- - - - -) horizontal que atraviese parte o la totalidad del ancho de la zona de escritura.
 
 ![ejemplo-separador](../../Assets/ejemplo-separador.png)
+
+
+
+

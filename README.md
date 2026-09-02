@@ -28,6 +28,7 @@ The official manual is divided into short sections to make it easier to follow. 
 * [2. Símbolos Básicos](es/Documentacion/Conceptos-Basicos.md) *(Lectura jerárquica y bloques)*
 * [3. Conceptos Avanzados](es/Documentacion/Conceptos-Avanzados.md) *(Superbloques, Relaciones y Grupos)*
 * [4. Estructura y Formato](es/Documentacion/Estructura-y-Formato.md) *(Encabezados, Divisores)*
+* [5. Símbolos Adicionales](es/Documentacion/Simbolos-Adicionales.md)*(Lista de símbolos adicionales)*
 
 *(Work in progress)*
 

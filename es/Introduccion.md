@@ -1,13 +1,10 @@
 
-Bienvenido al portal oficial de la metodoliga Gray Notation, en este portal encontraras todas la información necesaria y buenas practicas para aplicar de forma efectiva esta metodologia de toma de notas.
-
-
 # **¿Que es Gray Notation?**
 
 
 Surge como una propuesta para tener un sistema estándar al tomar notas en papel. A diferencia de otros sistemas que están orientados a la organización de notas de forma digital, Gray Notation se enfoca en la toma de notas en papel, ofreciendo convenciones que facilitan la lectura y escritura al tomar notas sin tener que pensar en como estructurar la información. 
 
-Otro aspecto fundamental es que, el que lo emplee no está obligado a respetar el sistema como sus reglas, sino que lo puede modificar y adaptar a sus gustos o necesidades, en eso queremos ser claros, que **Gray Notation ofrece un punto de partida donde la persona puede apoyarse a organizar sus notas, no tome las convenciones y reglas que se presentaran como obligatorias, sino como sugerencias que puede modificarlas a su gusto, pudiendo usar unas reglas y otras no.**
+Otro aspecto fundamental es que, el que lo emplee no está obligado a respetar el sistema como sus reglas, sino que lo puede modificar y adaptar a sus gustos o necesidades, en eso quiero ser claro, que **Gray Notation ofrece un punto de partida donde la persona puede apoyarse a organizar sus notas, no tome las convenciones y reglas que se presentaran como obligatorias, sino como sugerencias que puede modificarlas a su gusto, pudiendo usar unas reglas y otras no.**
   
 Tiene por nombre Gray Notation porque está pensado para prescindir de colores para identificar puntos claves o clasificar y agrupar ideas o temas, dejándolo como algo opcional o complementarios. Se basa principalmente en el uso de etiquetas para segmentar y dar grado de importancia a la información, por lo tanto, relega el uso de color a opcion del usuario.
 
@@ -30,4 +27,6 @@ Como se recalco en un inicio, Gray Notation no trata de imponer un sistema al qu
 1. [Conceptos Basicos](./Documentacion/Conceptos-Basicos.md)
 2. [Conceptos Avanzados](./Documentacion/Conceptos-Avanzados.md)
 3. [Estructura y Formato](./Documentacion/Estructura-y-Formato.md)
+4. [Simbolos Adicionales](./Documentacion/Simbolos-Adicionales.md)
+5. [Ejemplos](./Ejemplos-Reales/README.md)
 
