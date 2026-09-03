@@ -724,6 +724,7 @@ cQnnC
 chV
 cuK
 cyb
+certainty
 text
 todos
 tomar
@@ -1172,6 +1173,10 @@ taQu
 txT
 tQJ
 tgg
+tVi
+tPH
+task
+too
 dom
 de
 dominio
@@ -1729,6 +1734,9 @@ ddiBx
 dhj
 dxU
 dHs
+dge
+dXt
+doubtful
 in
 independiente
 imagen
@@ -2209,6 +2217,9 @@ inHh
 iDO
 iKM
 iHD
+iPn
+iuX
+iTn
 Nota
 No
 Ny
@@ -2545,6 +2556,9 @@ NPEB
 NCP
 NwA
 NYa
+NWP
+NxG
+NLl
 las
 la
 ley
@@ -2945,6 +2959,8 @@ lJK
 lAO
 laa
 ltht
+lmI
+lä
 funciones
 forma
 funci
@@ -3348,6 +3364,8 @@ fpkA
 fdN
 fHY
 fyD
+fnW
+fmc
 span
 style
 son
@@ -3861,6 +3879,10 @@ sHGk
 sbM
 spx
 shF
+sTKb
+sJJJ
+statement
+studies
 red
 ra
 resultado
@@ -4352,6 +4374,9 @@ rVf
 rzY
 rjL
 rLd
+recordatorio
+remembered
+regarding
 no
 nico
 numero
@@ -4716,6 +4741,9 @@ nbCF
 nEzs
 nOe
 nQX
+nrrr
+ntX
+ntn
 Ejemplo
 En
 El
@@ -5813,6 +5841,11 @@ pmr
 pUu
 pNM
 pau
+pAt
+piece
+practice
+pay
+please
 este
 es
 el
@@ -6408,6 +6441,8 @@ eJar
 euJ
 eCx
 eebL
+eOd
+excuse
 apartado
 armar
 aplicamos
@@ -7026,6 +7061,8 @@ axv
 ayuhggU
 accc
 alH
+aaKOd
+additional
 vera
 ver
 valor
@@ -7421,6 +7458,7 @@ vaQ
 vHlHf
 vum
 vLf
+vIB
 mas
 mejor
 mientras
@@ -7862,6 +7900,7 @@ mEI
 mKlJ
 mSl
 msAC
+much
 Consideraciones
 Cuando
 Conceptos
@@ -8315,6 +8354,7 @@ CTB
 CJf
 CqW
 COD
+CYf
 Antes
 AGA
 ANGULO
@@ -8747,6 +8787,10 @@ AcX
 Alcr
 AXt
 AxL
+AIn
+Additional
+Apuntes
+Actual
 Dadas
 Definici
 Diferencia
@@ -9136,6 +9180,10 @@ DNib
 DEZ
 DIH
 Dze
+DEF
+DAdD
+DfM
+Doubt
 obtener
 operaciones
 origen
@@ -9786,6 +9834,8 @@ UlPc
 UTYK
 Uku
 Uziq
+UjB
+UChT
 un
 una
 usando
@@ -10134,6 +10184,8 @@ uYN
 udR
 uhY
 uvV
+uFr
+university
 Temas
 Tener
 Tt
@@ -10857,6 +10909,8 @@ bFe
 bbs
 bmY
 bJpH
+brf
+boxnf
 Otra
 OTRO
 ODu
@@ -11143,6 +11197,7 @@ OSv
 OvoX
 OCR
 OOl
+Oak
 Vectores
 VECTORES
 VECTOR
@@ -11754,6 +11809,11 @@ xZx
 xeTZ
 xUx
 xKs
+xgq
+xeO
+xttA
+xFQ
+xxt
 que
 qc
 qq
@@ -12044,6 +12104,8 @@ qfeCX
 qoV
 qYP
 qpEV
+qcg
+qHH
 Puede
 Para
 Po
@@ -12418,6 +12480,9 @@ Pxzs
 PUN
 PUd
 PEN
+PTl
+PdE
+PzG
 haber
 hacer
 hO
@@ -12800,6 +12865,9 @@ hTw
 hkz
 htA
 hGrA
+hwN
+hUK
+handwriting
 general
 gica
 gP
@@ -13163,6 +13231,8 @@ ggk
 gHl
 gnK
 gtx
+gKf
+gOW
 SACAR
 SOBRE
 Se
@@ -13541,6 +13611,7 @@ Sjp
 SAM
 SEuU
 SJH
+Swq
 ya
 yJ
 ym
@@ -13785,6 +13856,8 @@ yVk
 yMY
 yPZ
 yTj
+yIDATx
+ySz
 Funciona
 FB
 FWW
@@ -14455,6 +14528,7 @@ HTv
 HAK
 HdsK
 Hsn
+Here
 La
 Llamamos
 Lf
@@ -14749,6 +14823,8 @@ LHd
 LnS
 Lmq
 LUH
+LtQ
+LNa
 General
 Gh
 GH
@@ -15450,6 +15526,8 @@ IdE
 Ikq
 IlEi
 Ioq
+Izvh
+IrRr
 jN
 jo
 jp
@@ -15739,6 +15817,7 @@ jHF
 jts
 jrz
 jLW
+jCA
 Yr
 Yi
 Yx
@@ -16105,6 +16184,7 @@ YJW
 YNC
 YYd
 YiZq
+Yxn
 Qt
 Qi
 QJA
@@ -16419,6 +16499,7 @@ QPr
 QZw
 QNN
 QdP
+Qzz
 ZK
 Zs
 ZP
@@ -17058,6 +17139,9 @@ ReS
 README
 Reales
 Real
+RaL
+RND
+Rvi
 kh
 ku
 kn
@@ -17615,6 +17699,8 @@ wJm
 wCD
 wGp
 wnM
+wvj
+wFN
 BY
 BZ
 BG
@@ -17952,6 +18038,8 @@ BZp
 BZk
 BzYK
 BOCi
+BrIB
+BDX
 KIs
 Kd
 Kf
@@ -18257,6 +18345,7 @@ KZl
 KPCJ
 Koi
 Kfu
+KQp
 Mc
 MAX
 MLL
@@ -18574,6 +18663,9 @@ Mpzn
 MiN
 MXZ
 Mxx
+MAAAx
+Mjj
+MVz
 JotS
 Jjy
 Jx
@@ -19463,6 +19555,7 @@ XCQ
 XIl
 XOk
 XCO
+Xag
 We
 WE
 WWWwvv

@@ -3,7 +3,7 @@
 
 **A structured, flexible and visual system for taking notes on paper.**
 
-Gray Notation isn’t an app; it’s a **methodology**. It was created to tackle the chaos of traditional note-taking, offering a set of simple symbols and rules that transform messy sheets of paper into hierarchical, easy-to-read notes that are ready for revision. 
+Gray Notation isn’t an app; it’s a **visual notation system for handwritten notes**. It was created to tackle the chaos of traditional note-taking, offering a set of simple symbols and rules that transform messy sheets of paper into hierarchical, easy-to-read notes that are ready for revision. 
 
 ✨ **Key Features:**
 * **No need for colours:** Works perfectly with just a single pen or pencil.
@@ -28,7 +28,8 @@ The official manual is divided into short sections to make it easier to follow. 
 * [2. Símbolos Básicos](es/Documentacion/Conceptos-Basicos.md) *(Lectura jerárquica y bloques)*
 * [3. Conceptos Avanzados](es/Documentacion/Conceptos-Avanzados.md) *(Superbloques, Relaciones y Grupos)*
 * [4. Estructura y Formato](es/Documentacion/Estructura-y-Formato.md) *(Encabezados, Divisores)*
-* [5. Símbolos Adicionales](es/Documentacion/Simbolos-Adicionales.md)*(Lista de símbolos adicionales)*
+* [5. Símbolos Adicionales](es/Documentacion/Simbolos-Adicionales.md) *(Lista de símbolos adicionales)*
+* [6. Ejemplos Reales](es/Ejemplos-Reales/README.md) *(Apuntes reales)*
 
 *(Work in progress)*
 
@@ -41,6 +42,8 @@ The official manual is divided into short sections to make it easier to follow. 
 * [2. Basic Symbols](en/Documentation/Basic-Concepts.md) *(Hierarchical reading and blocks)*
 * [3. Advanced Concepts](en/Documentation/Advanced-Concepts.md) *(Superblocks, Relationships and Groups)*
 * [4. Structure and Format](en/Documentation/Structure-and-Format.md) *(Headings, Dividers)*
+* [5. Additional Symbols](en/Documentation/Additional-Symbols.md) *(List of additional symbols)*
+* [6. Real Examples](en/Real-Examples/README.md) *(Actual notes)*
 
 
 *(Work in progress / Traducción en proceso)*
