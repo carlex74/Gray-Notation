@@ -8,7 +8,7 @@ Se usa el simbolo `]` para indicar una tarea
 ![ejemplo-tareas](../../Assets/ejemplo-tareas.png)
 # Recordatorio
 
-Se usa el símbolo `!` para indicar que un texto a recordad
+Se usa el símbolo `!` para indicar que un texto a recordar
 
 ![ejemplo-recordatorio](../../Assets/ejemplo-recordatorio.png)
 

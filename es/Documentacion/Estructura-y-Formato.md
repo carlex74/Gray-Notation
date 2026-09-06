@@ -27,3 +27,20 @@ Consiste en trazar una **línea discontinua o punteada** (- - - - -) horizonta
 
 
 
+# Sección de Desarrollo Matemático
+
+Las fórmulas extensas, los cálculos escalonados y las demostraciones de teoremas pueden romper el ritmo visual de los apuntes teóricos.
+
+Delimitar explícitamente una Zona de Desarrollo Matemático te permite agrupar todo el contenido procedimental (números y ecuaciones) separado del contenido conceptual (el texto que explica esas ecuaciones).
+
+
+![ejemplo-desarrollo-matematico](../../Assets/ejemplo-desarrollo-matematico.png)
+
+
+# Pizarra Libre
+
+Al delimitar un cuadro en tu hoja y etiquetarlo como "Pizarra Libre", te estás dando el permiso explícito para ser desprolijo en esa área específica, sin sentir que has arruinado la estética general de tus apuntes.
+
+
+![ejemplo-pizarra](../../Assets/ejemplo-pizarra.png)
+

@@ -1,5 +1,12 @@
 
-# 📝 Gray Notation
+<div align="center">
+  <img src="Assets/LOGO.png" alt="Gray Notation logo" width="300">
+</div>
+
+
+---
+
+
 
 **A structured, flexible and visual system for taking notes on paper.**
 
@@ -15,6 +22,8 @@ Gray Notation isn’t an app; it’s a **visual notation system for handwritten 
 > Gray Notation is currently in beta, so there is still content to be added and translated
 
 
+>[!note] 
+> Gray Notation is designed for notes consisting of paragraphs or sentences
 
 ---
 
