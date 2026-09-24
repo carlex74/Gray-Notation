@@ -1,6 +1,6 @@
 
 # Conceptos Avanzados
----
+
 
 A medida que aumenta la complejidad de una clase, la información no siempre sigue un orden lineal. En muchos casos, una idea se desarrolla en varios fragmentos, se interrumpe por otra temática y vuelve a retomarse más adelante. Gray Notation incorpora herramientas adicionales para mantener el contexto y la organización visual sin romper el flujo de la toma de apuntes.
 
@@ -24,7 +24,7 @@ Las herramientas avanzadas del sistema son:
 - **Declaración**: explica el significado de cada símbolo dentro de una sesión concreta.
 
 ## 1. Superbloque
----
+
 
 Muchas veces se escriben varios párrafos seguidos y la idea relevante no está en un bloque concreto, sino en **el conjunto completo** de la secuencia. En esos casos, la información no debe leerse como fragmentos aislados, sino como una unidad conceptual.
 
@@ -43,7 +43,7 @@ El superbloque funciona como un bloque mayor que contiene varios subbloques rela
 ![ejemplo-superbloque](../../Assets/ejemplo-superbloque.png)
 
 ## 2. Relaciones
----
+
 
 Una **Relación** es una línea conectora simple que une un bloque con otro que pertenece a la misma continuidad de pensamiento. Sirve para indicar que una idea nueva es continuación directa de una anterior, aunque haya sido interrumpida por otra información.
 
@@ -64,7 +64,7 @@ Las relaciones son útiles cuando el vínculo entre ideas está próximo. Sin em
 En esos casos, Gray Notation recomienda usar **Grupos**.
 
 ## 3. Grupos
----
+
 
 Un **Grupo** es un sistema de etiquetado visual que reúne bloques dispersos que pertenecen a un mismo tema. Su función es permitir una lectura filtrada, de modo que el usuario pueda identificar rápidamente todas las ideas relacionadas sin tener que revisar el contenido completo.
 
@@ -86,7 +86,7 @@ El grupo organiza la información por categorías conceptuales o temáticas. A d
 > En los ejemplos suele usarse un símbolo o modificador visual como un círculo o un cuadrado, pero el sistema es flexible. El usuario puede emplear triángulos, rombos, letras o cualquier marca rápida y reconocible. Lo importante es que la etiqueta sea clara y consistente durante la sesión.
 
 ## 4. Declaración de Grupos
----
+
 
 A medida que una clase o una sesión de estudio avanza, es posible que el significado de una etiqueta se olvide. Un mismo símbolo puede representar un tema distinto según el contexto, especialmente si se usan varios grupos en la misma hoja.
 
@@ -109,8 +109,12 @@ La declaración es un pequeño recuadro con la clave de lectura del sistema visu
 >
 > Aunque la declaración puede colocarse en cualquier parte, lo más práctico es ubicarla **arriba a la izquierda de la hoja**. De este modo funciona como un índice visual inmediato y facilita la lectura de cada página.
 
-## Siguientes Temas
----
+## Navegación de temas
+
+
+[Introducción](../Introduccion.md) • [Conceptos Básicos](Conceptos-Basicos.md) • [Conceptos Avanzados](Conceptos-Avanzados.md) • [Estructura y Formato](Estructura-y-Formato.md) • [Símbolos Adicionales](Simbolos-Adicionales.md) • [Ejemplos Reales](../Ejemplos-Reales/README.md)
+
+### Siguientes temas
 
 - [Estructura y Formato](Estructura-y-Formato.md)
 - [Símbolos Adicionales](Simbolos-Adicionales.md)

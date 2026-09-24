@@ -1,5 +1,4 @@
 # Principios Fundamentales de Lectura
----
 
 Gray Notation organiza la información como una estructura visual que permite leer primero lo importante y luego el detalle. Su base está en dos conceptos fundamentales: el **Bloque** y el **Símbolo de Notación**.
 
@@ -33,8 +32,8 @@ A continuación se describen los símbolos fundamentales del sistema y su uso pr
 >
 > Para fines ilustrativos, las imágenes de este manual simulan un **cuaderno cuadriculado de tamaño A4**. Esto permite mostrar de forma clara el manejo del espaciado y la distribución visual de los símbolos en apuntes físicos reales.
 
-### Dardo
----
+## Dardo
+
 Es el símbolo base de Gray Notation. Su función es identificar un bloque de manera inequívoca.
 
 ![ejemplo-dardo](../../Assets/ejemplo-dardo.png)
@@ -43,14 +42,14 @@ Cuando un bloque está precedido por un dardo, se entiende como la unidad princi
 
 ![ejemplo-anidacion](../../Assets/ejemplo-anidacion.png)
 
-### Círculo
----
+## Círculo
+
 Se utiliza para destacar un bloque con contenido clave. Indica que la información es relevante y debe priorizarse durante la revisión.
 
 ![ejemplo-circulo](../../Assets/ejemplo-circulo.png)
 
-### Dardo doble
----
+## Dardo doble
+
 Se emplea para identificar **información crítica o de mayor importancia que la marcada con un círculo**. Señala un nivel de prioridad superior y exige atención inmediata durante el estudio.
 
 ![ejemplo-dardo-doble](../../Assets/ejemplo-dardo-doble.png)
@@ -60,8 +59,8 @@ Se emplea para identificar **información crítica o de mayor importancia que la
 
 ![ejemplo-dardo-doble-2](../../Assets/ejemplo-dardo-doble-2.png)
 
-### Concepto
----
+## Concepto
+
 Se usa para indicar que el contenido de un bloque corresponde a un concepto, una definición, una cita o un término clave.
 
 Su propósito es distinguir la explicación teórica o declarativa del resto de la información.
@@ -73,8 +72,8 @@ Su propósito es distinguir la explicación teórica o declarativa del resto de 
 
 ![ejemplo-concepto-2](../../Assets/ejemplo-concepto-2.png)
 
-### Lista
----
+## Lista
+
 Permite desglosar y organizar varios elementos dentro de un mismo bloque principal.
 
 ![ejemplo-lista](../../Assets/ejemplo-lista.png)
@@ -110,8 +109,12 @@ Se utilizan como extensiones visuales que permiten añadir notas personales, acl
 
 ![ejemplo-comentarios-3](../../Assets/ejemplo-comentarios-3.png)
 
-## Siguientes Temas
----
+## Navegación de temas
+
+
+[Introducción](../Introduccion.md) • [Conceptos Básicos](Conceptos-Basicos.md) • [Conceptos Avanzados](Conceptos-Avanzados.md) • [Estructura y Formato](Estructura-y-Formato.md) • [Símbolos Adicionales](Simbolos-Adicionales.md) • [Ejemplos Reales](../Ejemplos-Reales/README.md)
+
+### Siguientes temas
 
 - [Conceptos Avanzados](Conceptos-Avanzados.md)
 - [Estructura y Formato](Estructura-y-Formato.md)

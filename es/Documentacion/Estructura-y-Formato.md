@@ -3,8 +3,13 @@ Hasta ahora, hemos visto cómo Gray Notation utiliza símbolos para organizar la
 
 Esta sección detalla convenciones visuales para separar grandes bloques temáticos y establecer jerarquías de títulos utilizando únicamente tu bolígrafo, sin necesidad de recurrir a marcadores, colores o letras exageradamente grandes.
 
+## Navegación de temas
+
+
+[Introducción](../Introduccion.md) • [Conceptos Básicos](Conceptos-Basicos.md) • [Conceptos Avanzados](Conceptos-Avanzados.md) • [Estructura y Formato](Estructura-y-Formato.md) • [Símbolos Adicionales](Simbolos-Adicionales.md) • [Ejemplos Reales](../Ejemplos-Reales/README.md)
+
 # Jerarquía de Títulos (Headings)
----
+
 
 Para diferenciar visualmente un tema principal de un subtema, Gray Notation propone un sistema de subrayado progresivo. Esto permite que el ojo identifique rápidamente la estructura del documento al hojear las páginas.
 
@@ -16,7 +21,7 @@ Para diferenciar visualmente un tema principal de un subtema, Gray Notation prop
 > Mantener un espaciado consistente (por ejemplo, dejar siempre un renglón en blanco o dos cuadros antes y después de un Heading 1 y 2) potenciará enormemente el efecto visual de esta jerarquía.
 
 # Separadores de Sección
----
+
 
 Durante una clase, es común que ocurran saltos radicales de tema, o que simplemente termine una clase y la siguiente comience en la mitad de la misma hoja.
 
@@ -30,7 +35,7 @@ Consiste en trazar una **línea discontinua o punteada** (- - - - -) horizonta
 
 
 # Sección de Desarrollo Matemático
----
+
 
 Las fórmulas extensas, los cálculos escalonados y las demostraciones de teoremas pueden romper el ritmo visual de los apuntes teóricos.
 
@@ -41,7 +46,7 @@ Delimitar explícitamente una Zona de Desarrollo Matemático te permite agrupa
 
 
 # Pizarra Libre
----
+
 
 Al delimitar un cuadro en tu hoja y etiquetarlo como "Pizarra Libre", te estás dando el permiso explícito para ser desprolijo en esa área específica, sin sentir que has arruinado la estética general de tus apuntes.
 

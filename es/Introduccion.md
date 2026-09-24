@@ -1,5 +1,5 @@
 # Introducción y Filosofía de Gray Notation
---- 
+
 
 ## El Problema Analógico
 
@@ -39,7 +39,7 @@ Se alienta al usuario a adoptar el sistema, deconstruirlo y modificarlo según s
 
 ---
 
-## Índice de Documentación
+## Temas del manual
 
 Ahora que conoces la filosofía detrás del sistema, te invitamos a explorar cómo funciona en la práctica:
 
@@ -48,3 +48,5 @@ Ahora que conoces la filosofía detrás del sistema, te invitamos a explorar có
 3. [Estructura y Formato](./Documentacion/Estructura-y-Formato.md): Organización visual de la hoja a nivel macro.
 4. [Símbolos Adicionales](./Documentacion/Simbolos-Adicionales.md): Lista de otros símbolos que pueden ser de utilidad.
 5. [Ejemplos Reales](../Ejemplos-Reales/README.md): Galería de apuntes aplicando la notación.
+
+> Navegación rápida: [Introducción](Introduccion.md) • [Conceptos Básicos](Documentacion/Conceptos-Basicos.md) • [Conceptos Avanzados](Documentacion/Conceptos-Avanzados.md) • [Estructura y Formato](Documentacion/Estructura-y-Formato.md) • [Símbolos Adicionales](Documentacion/Simbolos-Adicionales.md) • [Ejemplos Reales](Ejemplos-Reales/README.md)

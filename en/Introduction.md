@@ -1,7 +1,7 @@
 
 # Introduction and Philosophy of Gray Notation
 
----
+
 ## The Analog Problem
 
 In the digital age, information management has mature tools for structuring data. However, handwritten note-taking (on paper) remains a chaotic process for many students. Traditional approaches often fail in real-world learning scenarios due to:
@@ -45,14 +45,15 @@ Unlike rigid methodologies, Gray Notation should be understood as a *framework* 
 Users are encouraged to adopt the system, deconstruct it, and modify it according to their specific needs, learning style, or the particular demands of each subject. You can implement only the heading hierarchy, ignore superblocks, or invent your own grouping symbols; you have complete control over your notebook.
 
 ---
-## Documentation Table of Contents
+## Topics of the Manual
 
 Now that you understand the philosophy behind the system, we invite you to explore how it works in practice:
-# Topics
 
 1. [Basic Concepts](./Documentation/Basic-Concepts.md)
 2. [Advanced Concepts](./Documentation/Advanced-Concepts.md)
 3. [Structure and Format](./Documentation/Structure-and-Format.md)
 4. [Additional Symbols](./Documentation/Additional-Symbols.md)
 5. [Examples](./Real-Examples/README.md)
+
+> Quick navigation: [Introduction](Introduction.md) • [Basic Concepts](Documentation/Basic-Concepts.md) • [Advanced Concepts](Documentation/Advanced-Concepts.md) • [Structure and Format](Documentation/Structure-and-Format.md) • [Additional Symbols](Documentation/Additional-Symbols.md) • [Real Examples](Real-Examples/README.md)
 

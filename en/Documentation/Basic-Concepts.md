@@ -1,5 +1,5 @@
 ﻿# Fundamental Principles of Reading
----
+
 
 Gray Notation structures information as a visual system that allows readers to prioritise what matters most before examining the details. Its foundation rests on two core concepts: the **Block** and the **Notation Symbol**.
 
@@ -33,8 +33,8 @@ The fundamental symbols of the system are described below, along with practical 
 >
 > For illustrative purposes, the images in this manual simulate an **A4 squared notebook**. This helps show clearly how spacing and symbol distribution are managed in real handwritten notes.
 
-### Arrow
----
+## Arrow
+
 This is the basic symbol of Gray Notation. Its function is to identify a block unambiguously.
 
 ![ejemplo-dardo](../../Assets/ejemplo-dardo.png)
@@ -43,14 +43,14 @@ When a block is preceded by an arrow, it is understood as the main unit within t
 
 ![ejemplo-anidacion](../../Assets/ejemplo-anidacion.png)
 
-### Circle
----
+## Circle
+
 This symbol is used to highlight a block containing key ideas. It indicates that the information is relevant and should be prioritised during revision.
 
 ![ejemplo-circulo](../../Assets/ejemplo-circulo.png)
 
-### Double Arrow
----
+## Double Arrow
+
 This is used to identify **information that is critical or more important than that marked with a circle**. It indicates a higher level of priority and requires immediate attention during study.
 
 ![ejemplo-dardo-doble](../../Assets/ejemplo-dardo-doble.png)
@@ -60,8 +60,8 @@ This is used to identify **information that is critical or more important than t
 
 ![ejemplo-dardo-doble-2](../../Assets/ejemplo-dardo-doble-2.png)
 
-### Concept
----
+## Concept
+
 This symbol indicates that the content of a block corresponds to a concept, definition, quotation or key term.
 
 Its purpose is to distinguish theoretical or declarative explanations from other kinds of information.
@@ -73,8 +73,8 @@ Its purpose is to distinguish theoretical or declarative explanations from other
 
 ![ejemplo-concepto-2](../../Assets/ejemplo-concepto-2.png)
 
-### List
----
+## List
+
 This allows several items to be broken down and organised within a single main block.
 
 ![ejemplo-lista](../../Assets/ejemplo-lista.png)
@@ -110,8 +110,12 @@ They act as visual extensions that allow personal notes, clarifications or nuanc
 
 ![ejemplo-comentarios-3](../../Assets/ejemplo-comentarios-3.png)
 
-## Next Topics
+## Topic navigation
 ---
+
+[Introduction](../Introduction.md) • [Basic Concepts](Basic-Concepts.md) • [Advanced Concepts](Advanced-Concepts.md) • [Structure and Format](Structure-and-Format.md) • [Additional Symbols](Additional-Symbols.md) • [Real Examples](../Real-Examples/README.md)
+
+### Next topics
 
 - [Advanced Concepts](Advanced-Concepts.md)
 - [Structure and Format](Structure-and-Format.md)

@@ -13,7 +13,7 @@
 Gray Notation isn’t an app; it’s a **visual notation system for handwritten notes**. It was created to tackle the chaos of traditional note-taking, offering a set of simple symbols and rules that transform messy sheets of paper into hierarchical, easy-to-read notes that are ready for revision. 
 
 ## **Key Features:**
----
+
 
 * **No need for colours:** Works perfectly with just a single pen or pencil.
 * **Hierarchical reading:** Your eyes will go straight to the important bits when revising.
@@ -22,7 +22,7 @@ Gray Notation isn’t an app; it’s a **visual notation system for handwritten 
 
 
 ## The Problem it solves
----
+
 Taking notes in fast-paced or highly theoretical classes usually leads to:
 
 - **Flat notes:** Everything looks the same, making it hard to spot key concepts at a glance.
@@ -41,42 +41,39 @@ Taking notes in fast-paced or highly theoretical classes usually leads to:
 
 ---
 
-## Documentación / Documentation
+## Temas / Topics
 
-The official manual is divided into progressive modules to make it easier to follow. Choose your language:
+El manual está organizado por temas para facilitar la lectura progresiva y la navegación entre conceptos. El orden recomendado es el siguiente:
 
 ### 🇪🇸 Español
 
 * [1. Introducción y Filosofía](es/Introduccion.md) *(¿Qué es y por qué usarlo?)*
-* [2. Símbolos Básicos](es/Documentacion/Conceptos-Basicos.md) *(Lectura jerárquica y bloques)*
-* [3. Conceptos Avanzados](es/Documentacion/Conceptos-Avanzados.md) *(Superbloques, Relaciones y Grupos)*
-* [4. Estructura y Formato](es/Documentacion/Estructura-y-Formato.md) *(Encabezados, Divisores)*
-* [5. Símbolos Adicionales](es/Documentacion/Simbolos-Adicionales.md) *(Lista de símbolos adicionales)*
-* [6. Ejemplos Reales](es/Ejemplos-Reales/README.md) *(Apuntes reales)*
+* [2. Conceptos Básicos](es/Documentacion/Conceptos-Basicos.md) *(Bloques, lectura jerárquica y símbolos básicos)*
+* [3. Conceptos Avanzados](es/Documentacion/Conceptos-Avanzados.md) *(Superbloques, relaciones y grupos)*
+* [4. Estructura y Formato](es/Documentacion/Estructura-y-Formato.md) *(Jerarquías, separadores y organización de la hoja)*
+* [5. Símbolos Adicionales](es/Documentacion/Simbolos-Adicionales.md) *(Tareas, dudas, recordatorios y signos extra)*
+* [6. Ejemplos Reales](es/Ejemplos-Reales/README.md) *(Apuntes aplicados en la práctica)*
 
-*(Work in progress)*
+*(Trabajo en progreso)*
 
-
----
 
 ### 🇬🇧 English
 
 * [1. Introduction and Philosophy](en/Introduction.md) *(What is it and why use it?)*
-* [2. Basic Symbols](en/Documentation/Basic-Concepts.md) *(Hierarchical reading and blocks)*
-* [3. Advanced Concepts](en/Documentation/Advanced-Concepts.md) *(Superblocks, Relationships and Groups)*
-* [4. Structure and Format](en/Documentation/Structure-and-Format.md) *(Headings, Dividers)*
-* [5. Additional Symbols](en/Documentation/Additional-Symbols.md) *(List of additional symbols)*
-* [6. Real Examples](en/Real-Examples/README.md) *(Actual notes)*
-
+* [2. Basic Concepts](en/Documentation/Basic-Concepts.md) *(Blocks, hierarchical reading and basic symbols)*
+* [3. Advanced Concepts](en/Documentation/Advanced-Concepts.md) *(Superblocks, relationships and groups)*
+* [4. Structure and Format](en/Documentation/Structure-and-Format.md) *(Headings, separators and layout rules)*
+* [5. Additional Symbols](en/Documentation/Additional-Symbols.md) *(Tasks, doubts, reminders and extra marks)*
+* [6. Real Examples](en/Real-Examples/README.md) *(Notes applied in practice)*
 
 *(Work in progress / Traducción en proceso)*
 
 
 
----
+
 
 ## Contributions and Feedback
----
+
 
 Gray Notation is a living system. If you have ideas for new symbols, improvements to the documentation, or examples of how you use the system in your lessons, we’d love to hear your suggestions! You can open an *Issue* or share your notes.
 

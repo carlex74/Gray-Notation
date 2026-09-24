@@ -1,6 +1,6 @@
 
 # Advanced Concepts
----
+
 
 As classes become more complex, information does not always follow a perfect linear order. In many cases, an idea develops across several fragments, is interrupted by another topic and then resumes later. Gray Notation includes additional tools to preserve meaning and structure without disrupting the flow of note-taking.
 
@@ -24,7 +24,7 @@ The advanced tools of the system are:
 - **Declaration**: explains the meaning of each symbol in a specific session.
 
 ## 1. Superblock
----
+
 
 Many times, several paragraphs are written in sequence and the important idea is not contained in any single paragraph, but in **the full set of them together**. In those cases, the information should not be read as isolated fragments, but as a single conceptual unit.
 
@@ -43,7 +43,7 @@ The superblock functions as a larger block that contains multiple related sub-bl
 ![ejemplo-superbloque](../../Assets/ejemplo-superbloque.png)
 
 ## 2. Relationships
----
+
 
 A **Relationship** is a simple connecting line that links one block to another that belongs to the same line of thought. It indicates that a new idea is a direct continuation of a previous one, even if it has been interrupted by other information.
 
@@ -64,7 +64,7 @@ Relationships are useful when the connection between ideas is nearby. However, i
 In those cases, Gray Notation recommends using **Groups**.
 
 ## 3. Groups
----
+
 
 A **Group** is a visual labelling system that brings together dispersed blocks that belong to the same topic. Its function is to enable filtered reading, so the user can quickly identify all related ideas without having to review the entire page in full.
 
@@ -86,7 +86,7 @@ The group organises information by conceptual or thematic categories. Unlike a r
 > In the examples, a symbol or visual modifier such as a circle or square is usually used, but the system is flexible. The user may employ triangles, diamonds, letters or any quick and recognisable mark. The important thing is that the label is clear and consistent during the session.
 
 ## 4. Declaration of Groups
----
+
 
 As a lesson or study session progresses, it becomes easy to forget what a label means. The same symbol may represent a different topic depending on the context, especially when several groups are used on the same page.
 
@@ -109,8 +109,12 @@ The declaration is a small box containing the key to the reading system used at 
 >
 > Although the declaration can be placed anywhere, the most practical option is to put it **in the top-left corner of the page**. In this position, it acts as an immediate visual index and makes each page easier to read.
 
-## Next Topics
----
+## Topic navigation
+
+
+[Introduction](../Introduction.md) • [Basic Concepts](Basic-Concepts.md) • [Advanced Concepts](Advanced-Concepts.md) • [Structure and Format](Structure-and-Format.md) • [Additional Symbols](Additional-Symbols.md) • [Real Examples](../Real-Examples/README.md)
+
+### Next topics
 
 - [Structure and Format](Structure-and-Format.md)
 - [Additional Symbols](Additional-Symbols.md)
