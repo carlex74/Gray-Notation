@@ -1,123 +1,120 @@
 # Principios Fundamentales de Lectura
+---
 
-La lectura en Gray Notation sigue una estructura lógica diseñada para priorizar la información de manera visual e intuitiva. Se basa en dos conceptos clave: el **Bloque** y el **Símbolo de Notación**.
+Gray Notation organiza la información como una estructura visual que permite leer primero lo importante y luego el detalle. Su base está en dos conceptos fundamentales: el **Bloque** y el **Símbolo de Notación**.
 
 ## 1. El Bloque: La Unidad de Información
 
-Un **Bloque** es la unidad fundamental de contenido en Gray Notation. Puede ser una oración, un párrafo o cualquier conjunto de texto que represente una idea singular. Todo el sistema se organiza y se lee a través de la relación entre estos Bloques.
+Un **Bloque** es la unidad mínima de contenido en Gray Notation. Puede ser una frase, un párrafo o cualquier conjunto de texto que represente una idea singular. La lectura del sistema se construye a partir de la relación entre bloques.
 
-La anidación de un Bloque debajo de otro indica una relación de sub-idea o elaboración, permitiendo crear jerarquías temáticas de forma natural.
+Cuando un bloque se anida dentro de otro, se establece una relación de subordinación o elaboración. Esto permite crear jerarquías conceptuales sin perder el contexto de la idea principal.
+
+### Regla de uso
+
+- Cada bloque contiene una idea principal o una unidad de sentido.
+- Un bloque puede incluir varios elementos, pero debe mantenerse como una idea clara.
+- La relación entre bloques define la prioridad visual y la estructura de lectura.
 
 ## 2. El Símbolo de Notación: La Guía de Lectura
 
-Cada Bloque va precedido por un **Símbolo de Notación**. La función de este símbolo es asignar un **significado y una prioridad** al Bloque que le sigue.
+Cada bloque va precedido por un **Símbolo de Notación**. Su función es asignar un significado y un nivel de prioridad al contenido que le sigue.
 
-Estos símbolos son el motor del sistema, ya que transforman una lectura lineal (de arriba a abajo) en una **lectura jerárquica**, donde la atención se dirige primero a las ideas más importantes, independientemente de su posición en la página.
-
+Esto convierte una lectura lineal en una **lectura jerárquica**, donde la vista se dirige primero a las ideas más relevantes, sin importar su posición exacta en la página.
 
 > [!important]
-> La simbología de Gray Notation es recursiva. Esto significa que **absolutamente todos los símbolos pueden utilizarse dentro de bloques anidados**, manteniendo su significado y nivel de importancia original.
+> La simbología de Gray Notation es recursiva. Esto significa que **todos los símbolos pueden utilizarse dentro de bloques anidados**, manteniendo el mismo significado y grado de relevancia original.
 
 ## Símbolos Básicos
 
-A continuación, se detallan los símbolos fundamentales del sistema junto con ejemplos prácticos de su aplicación.
+A continuación se describen los símbolos fundamentales del sistema y su uso práctico.
 
-> [!note] 
-> 
-> Nota sobre la representación visual  
-> 
-> Para propósitos ilustrativos, las imágenes de este manual simulan el entorno de un **cuaderno cuadriculado tamaño A4**. Esto tiene como objetivo demostrar fielmente cómo se gestiona el espaciado y la distribución de los símbolos al tomar apuntes físicos reales.
+> [!note]
+> Nota sobre la representación visual
+>
+> Para fines ilustrativos, las imágenes de este manual simulan un **cuaderno cuadriculado de tamaño A4**. Esto permite mostrar de forma clara el manejo del espaciado y la distribución visual de los símbolos en apuntes físicos reales.
 
 ### Dardo
-
-Es el símbolo fundamental de Gray Notation. Su función es identificar un bloque de manera inequívoca.
-
+---
+Es el símbolo base de Gray Notation. Su función es identificar un bloque de manera inequívoca.
 
 ![ejemplo-dardo](../../Assets/ejemplo-dardo.png)
 
-Ejemplo con anidación
-
+Cuando un bloque está precedido por un dardo, se entiende como la unidad principal del conjunto de información.
 
 ![ejemplo-anidacion](../../Assets/ejemplo-anidacion.png)
 
-
-### Circulo
-
-Se utiliza para destacar que un bloque contiene ideas clave. Señala que la información es relevante y conviene priorizar su lectura durante las sesiones de repaso.
+### Círculo
+---
+Se utiliza para destacar un bloque con contenido clave. Indica que la información es relevante y debe priorizarse durante la revisión.
 
 ![ejemplo-circulo](../../Assets/ejemplo-circulo.png)
 
-
 ### Dardo doble
-
-Se emplea para identificar **información crítica o de una importancia superior a la destacada con el símbolo del circulo**. Denota que el bloque contiene datos de máxima prioridad que requieren atención inmediata y obligatoria al estudiar.
+---
+Se emplea para identificar **información crítica o de mayor importancia que la marcada con un círculo**. Señala un nivel de prioridad superior y exige atención inmediata durante el estudio.
 
 ![ejemplo-dardo-doble](../../Assets/ejemplo-dardo-doble.png)
 
-
 > [!note]
-> Se pueden concatenar más dardos para crear niveles de importancia personalizados y priorizar un bloque específico por encima de los que poseen dardos dobles.
-
+> Es posible concatenar varios dardos para crear niveles de importancia personalizados y reforzar la prioridad de un bloque específico por encima de otros que ya tienen dardos dobles.
 
 ![ejemplo-dardo-doble-2](../../Assets/ejemplo-dardo-doble-2.png)
 
-
 ### Concepto
+---
+Se usa para indicar que el contenido de un bloque corresponde a un concepto, una definición, una cita o un término clave.
 
-Se usa para denotar que la información de un bloque esta relacionada con un concepto, definición o cita.
-
-Se usa para indicar que la información del bloque corresponde a una definición explícita de alguna idea o concepto, un glosario de términos o una cita textual importante.
+Su propósito es distinguir la explicación teórica o declarativa del resto de la información.
 
 ![ejemplo-concepto](../../Assets/ejemplo-concepto.png)
 
-
 > [!note]
-> Tambien tiene una version para denotar importancia de una definicion.
+> También existe una variante que refuerza la importancia de una definición.
 
 ![ejemplo-concepto-2](../../Assets/ejemplo-concepto-2.png)
 
-
 ### Lista
-
-Permite desglosar y organizar múltiples elementos dentro de un mismo bloque principal.
-
+---
+Permite desglosar y organizar varios elementos dentro de un mismo bloque principal.
 
 ![ejemplo-lista](../../Assets/ejemplo-lista.png)
 
-
 > [!warning]
-> Los simbolos de notacion usados para las viñetas de la lista quedan a la libre interpretación y preferencia visual de cada usuario.
+> Los símbolos utilizados para las viñetas de la lista quedan a libre elección del usuario, según su criterio visual y su gusto personal.
 
-## Jerarquía de importancia
+## Jerarquía de Importancia
 
+Una vez comprendidos los símbolos básicos, es necesario establecer su **orden de precedencia**.
 
-Una vez comprendidos los símbolos básicos, es vital establecer su **orden de precedencia**.
-
-El objetivo principal de Gray Notation es transformar el repaso: pasar de una lectura lineal y engorrosa a una **lectura jerárquica y eficiente**, donde la vista salta instintivamente hacia los conceptos más importantes.
+El propósito principal de Gray Notation es transformar la revisión de apuntes, de una lectura lineal y poco eficiente a una **lectura jerárquica y rápida**, donde la vista salta intuitivamente hacia las ideas más relevantes.
 
 El orden de lectura, de menor a mayor prioridad, es el siguiente:
 
 ![ejemplo-jerarquia](../../Assets/ejemplo-jerarquia.png)
 
-
 ## Comentarios
 
-Se usan para expandir o complementar la informacion de un bloque.
+Los comentarios sirven para ampliar, aclarar o complementar la información de un bloque sin interrumpir el flujo principal del texto.
 
-Los comentarios son derivaciones visuales que sirven para expandir, complementar, aclarar o añadir notas personales a la información de un bloque principal, sin interrumpir el flujo del texto original.
+Se utilizan como extensiones visuales que permiten añadir notas personales, aclaraciones o matices sin romper la estructura del contenido original.
 
 ![ejemplo-comentarios](../../Assets/ejemplo-comentarios.png)
 
-
-
 > [!note]
-> Los comentarios pueden anidarse dentro de otros comentarios (sub-comentarios).
+> Los comentarios pueden anidarse dentro de otros comentarios, creando sub-comentarios.
 
 ![ejemplo-comentarios-2](../../Assets/ejemplo-comentarios-2.png)
 
-
 > [!note]
-> Pueden utilizar la misma simbología de importancia (Dardo, Círculo, etc.) que los bloques normales para indicar la relevancia de la nota añadida.
-
+> También pueden emplear la misma simbología de prioridad que los bloques principales para indicar la relevancia de la nota añadida.
 
 ![ejemplo-comentarios-3](../../Assets/ejemplo-comentarios-3.png)
+
+## Siguientes Temas
+---
+
+- [Conceptos Avanzados](Conceptos-Avanzados.md)
+- [Estructura y Formato](Estructura-y-Formato.md)
+- [Símbolos Adicionales](Simbolos-Adicionales.md)
+
+

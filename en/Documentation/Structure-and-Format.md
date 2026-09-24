@@ -3,6 +3,7 @@ So far, we have seen how Gray Notation uses symbols to organise information at t
 This section details visual conventions for separating large thematic blocks and establishing heading hierarchies using only your pen, without the need for highlighters, colours or excessively large letters.
 
 # Hierarchy of Headings
+---
 
 To visually distinguish a main topic from a subtopic, Gray Notation proposes a system of progressive underlining. This allows the eye to quickly identify the document’s structure whilst skimming through the pages.
 
@@ -13,6 +14,7 @@ To visually distinguish a main topic from a subtopic, Gray Notation proposes a s
 > Maintaining consistent spacing (for example, always leaving a blank line or two boxes before and after a Heading 1 and 2) will greatly enhance the visual impact of this hierarchy.
 
 # Section Separators 
+---
 
 During a lesson, it is common for there to be sudden changes in topic, or for one lesson to end and the next to begin in the middle of the same page.
 
@@ -23,6 +25,7 @@ This involves drawing a horizontal **dashed or dotted line** (- - - - -) that sp
 ![ejemplo-separador](../../Assets/ejemplo-separador.png)
 
 # Mathematical Development Section
+---
 
 Long formulas, step-by-step calculations and proofs of theorems can disrupt the visual flow of theoretical notes.
 
@@ -32,6 +35,7 @@ Explicitly designating a Mathematical Development Section allows you to group al
 
 
 # Free-form Whiteboard
+---
 
 By drawing a box on your sheet and labelling it ‘Free-form Whiteboard’, you’re giving yourself explicit permission to be messy in that specific area, without feeling that you’ve ruined the overall look of your notes.
 

@@ -1,121 +1,118 @@
-# Fundamental Principles of Reading
+﻿# Fundamental Principles of Reading
+---
 
-Reading in Gray Notation follows a logical structure designed to prioritise information in a visual and intuitive way. It is based on two key concepts: the **Block** and the **Notation Symbol**.
+Gray Notation structures information as a visual system that allows readers to prioritise what matters most before examining the details. Its foundation rests on two core concepts: the **Block** and the **Notation Symbol**.
 
 ## 1. The Block: The Unit of Information
 
-A **Block** is the fundamental unit of content in Gray Notation. It can be a sentence, a paragraph or any body of text representing a single idea. The entire system is organised and read through the relationships between these Blocks.
+A **Block** is the basic unit of content in Gray Notation. It can be a sentence, a paragraph or any body of text that expresses a single idea. The reading system is built from the relationship between these blocks.
 
-Nesting one Block beneath another indicates a relationship of sub-idea or elaboration, allowing thematic hierarchies to be created naturally.
+When one block is nested within another, it establishes a relationship of subordination or elaboration. This allows thematic hierarchies to be formed naturally without losing the context of the main idea.
+
+### Usage rule
+
+- Each block contains a primary idea or unit of meaning.
+- A block may contain multiple elements, but it should remain focused on one clear idea.
+- The relationship between blocks determines the visual priority and the reading structure.
 
 ## 2. The Notation Symbol: The Reading Guide
 
-Each Block is preceded by a **Notation Symbol**. The function of this symbol is to assign a **meaning and a priority** to the Block that follows it.
+Each block is preceded by a **Notation Symbol**. Its function is to assign a meaning and a level of priority to the content that follows it.
 
-These symbols are the driving force behind the system, as they transform a linear reading (from top to bottom) into a **hierarchical reading**, where attention is directed first to the most important ideas, regardless of their position on the page.
-
+This transforms a linear reading flow into a **hierarchical reading** process, where the eye is directed first to the most relevant ideas, regardless of their position on the page.
 
 > [!important]
-> The notation used in Gray Notation is recursive. This means that **absolutely all symbols can be used within nested blocks**, whilst retaining their original meaning and level of importance.
+> The notation used in Gray Notation is recursive. This means that **all symbols can be used within nested blocks**, while retaining their original meaning and level of importance.
 
 ## Basic Symbols
 
-The key symbols of the system are set out below, together with practical examples of their use.
+The fundamental symbols of the system are described below, along with practical examples of their use.
 
-> [!note] 
-> 
-> Note on visual representation  
-> 
-> For illustrative purposes, the images in this manual simulate the layout of an **A4-sized squared notebook**. The aim is to accurately demonstrate how spacing and the layout of symbols are managed when taking actual handwritten notes.
+> [!note]
+> Note on visual representation
+>
+> For illustrative purposes, the images in this manual simulate an **A4 squared notebook**. This helps show clearly how spacing and symbol distribution are managed in real handwritten notes.
 
 ### Arrow
-
-This is the fundamental symbol of Gray Notation. Its function is to identify a block unambiguously.
-
+---
+This is the basic symbol of Gray Notation. Its function is to identify a block unambiguously.
 
 ![ejemplo-dardo](../../Assets/ejemplo-dardo.png)
 
-Example with nesting
-
+When a block is preceded by an arrow, it is understood as the main unit within the set of information.
 
 ![ejemplo-anidacion](../../Assets/ejemplo-anidacion.png)
 
-
 ### Circle
-
-This is used to highlight that a block contains key ideas. It indicates that the information is relevant and should be prioritised during revision sessions.
+---
+This symbol is used to highlight a block containing key ideas. It indicates that the information is relevant and should be prioritised during revision.
 
 ![ejemplo-circulo](../../Assets/ejemplo-circulo.png)
 
-
-### Double arrow
-
-This is used to identify **information that is critical or of greater importance than that highlighted with the circle symbol**. It indicates that the section contains top-priority information that requires immediate and mandatory attention when studying.
+### Double Arrow
+---
+This is used to identify **information that is critical or more important than that marked with a circle**. It indicates a higher level of priority and requires immediate attention during study.
 
 ![ejemplo-dardo-doble](../../Assets/ejemplo-dardo-doble.png)
 
-
 > [!note]
-> You can chain together multiple darts to create custom levels of importance and prioritise a specific block over those with double darts.
-
+> It is possible to chain multiple arrows together to create custom levels of importance and reinforce the priority of a specific block above others that already use double arrows.
 
 ![ejemplo-dardo-doble-2](../../Assets/ejemplo-dardo-doble-2.png)
 
-
 ### Concept
+---
+This symbol indicates that the content of a block corresponds to a concept, definition, quotation or key term.
 
-This is used to indicate that the information in a block relates to a concept, definition or quotation.
-
-It is used to indicate that the information in the block corresponds to an explicit definition of an idea or concept, a glossary of terms or an important direct quotation.
+Its purpose is to distinguish theoretical or declarative explanations from other kinds of information.
 
 ![ejemplo-concepto](../../Assets/ejemplo-concepto.png)
 
-
 > [!note]
-> It also has a version used to emphasise the importance of a definition.
+> There is also a variant that reinforces the importance of a definition.
 
 ![ejemplo-concepto-2](../../Assets/ejemplo-concepto-2.png)
 
-
 ### List
-
-Allows you to break down and organise multiple items within a single main block.
+---
+This allows several items to be broken down and organised within a single main block.
 
 ![ejemplo-lista](../../Assets/ejemplo-lista.png)
 
-
 > [!warning]
-> The symbols used for the list bullets are left to the individual user’s interpretation and visual preference.
+> The symbols used for list bullets are left to the user’s personal interpretation and visual preference.
 
-## Hierarchy of importance
+## Hierarchy of Importance
 
+Once the basic symbols are understood, it is necessary to establish their **order of precedence**.
 
-Once you have understood the basic symbols, it is vital to establish their **order of precedence**.
-
-The main aim of Gray Notation is to transform the way you review material: to move from a linear and cumbersome reading process to a **hierarchical and efficient one**, where your eyes instinctively jump to the most important concepts.
+The main purpose of Gray Notation is to transform revision from a linear and inefficient process into a **hierarchical and rapid one**, where the eye naturally jumps to the most relevant concepts.
 
 The reading order, from lowest to highest priority, is as follows:
 
 ![ejemplo-jerarquia](../../Assets/ejemplo-jerarquia.png)
 
-
 ## Comments
 
-These are used to expand on or supplement the information in a block.
+Comments are used to expand, clarify or complement the information in a block without interrupting the flow of the main text.
 
-Comments are visual extensions that serve to expand on, supplement, clarify or add personal notes to the information in a main block, without interrupting the flow of the original text.
+They act as visual extensions that allow personal notes, clarifications or nuances to be added without breaking the structure of the original content.
 
 ![ejemplo-comentarios](../../Assets/ejemplo-comentarios.png)
 
-
-
 > [!note]
-> Comments can be nested within other comments (sub-comments).
+> Comments can be nested within other comments, creating sub-comments.
 
 ![ejemplo-comentarios-2](../../Assets/ejemplo-comentarios-2.png)
 
-
 > [!note]
-> You can use the same symbols (arrow, circle, etc.) as for normal blocks to indicate the relevance of the note you have added.
+> They can also use the same priority symbols as main blocks to indicate the relevance of the note being added.
 
 ![ejemplo-comentarios-3](../../Assets/ejemplo-comentarios-3.png)
+
+## Next Topics
+---
+
+- [Advanced Concepts](Advanced-Concepts.md)
+- [Structure and Format](Structure-and-Format.md)
+- [Additional Symbols](Additional-Symbols.md)

@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="Assets/LOGO.png" alt="Gray Notation logo" width="300">
+  <img src="Assets/LOGO.png" alt="Gray Notation logo" width="500">
 </div>
 
 
@@ -12,24 +12,38 @@
 
 Gray Notation isn’t an app; it’s a **visual notation system for handwritten notes**. It was created to tackle the chaos of traditional note-taking, offering a set of simple symbols and rules that transform messy sheets of paper into hierarchical, easy-to-read notes that are ready for revision. 
 
-✨ **Key Features:**
+## **Key Features:**
+---
+
 * **No need for colours:** Works perfectly with just a single pen or pencil.
 * **Hierarchical reading:** Your eyes will go straight to the important bits when revising.
 * **Solves the problem of analogue note-taking:** Visual tools to connect scattered ideas when the teacher ‘jumps from one topic to another’.
 * **Flexible:** It’s a starting point; you can (and should) adapt it to your needs.
 
+
+## The Problem it solves
+---
+Taking notes in fast-paced or highly theoretical classes usually leads to:
+
+- **Flat notes:** Everything looks the same, making it hard to spot key concepts at a glance.
+- **Fragmented ideas:** Topics get cut off when the teacher jumps to something else and then comes back.
+- **Color dependency:** Relying on multiple highlighters or colored pens just to make sense of the page.
+
+
+---
+
 > [!important] 
 > Gray Notation is currently in beta, so there is still content to be added and translated
 
 
->[!note] 
-> Gray Notation is designed for notes consisting of paragraphs or sentences
+>[!tip] 
+> Gray Notation is designed for notes structured in short sentences or paragraphs (Blocks), rather than extensive continuous prose.
 
 ---
 
-## 📖 Documentación / Documentation
+## Documentación / Documentation
 
-The official manual is divided into short sections to make it easier to follow. Choose your language:
+The official manual is divided into progressive modules to make it easier to follow. Choose your language:
 
 ### 🇪🇸 Español
 
@@ -61,6 +75,8 @@ The official manual is divided into short sections to make it easier to follow. 
 
 ---
 
-## 🤝 Contributions and Feedback
+## Contributions and Feedback
+---
+
 Gray Notation is a living system. If you have ideas for new symbols, improvements to the documentation, or examples of how you use the system in your lessons, we’d love to hear your suggestions! You can open an *Issue* or share your notes.
 
