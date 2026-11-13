@@ -1,10 +1,12 @@
+> [Home](../../README.md) • [1. Introduction](../Introduction.md) • [2. Basic Concepts](Basic-Concepts.md) • **3. Advanced Concepts** • [4. Structure and Format](Structure-and-Format.md) • [5. Additional Symbols](Additional-Symbols.md) • [6. Real Examples](../Real-Examples/README.md)
 
-# Advanced Concepts
+---
 
+# 3. Advanced Concepts
 
 As classes become more complex, information does not always follow a perfect linear order. In many cases, an idea develops across several fragments, is interrupted by another topic and then resumes later. Gray Notation includes additional tools to preserve meaning and structure without disrupting the flow of note-taking.
 
-## Origin of the problem
+## Origin of the Problem
 
 In a learning or teaching session, information rarely appears in a single continuous block. It is often split across several paragraphs, different parts of the page or even different pages. When this happens, it is easy to lose the relationship between ideas, especially when working on paper rather than in a digital document.
 
@@ -12,7 +14,7 @@ The main problem is not the lack of content, but the lack of context. An idea ma
 
 Gray Notation does not try to fix the content of a class; it aims to preserve its logical and visual structure.
 
-## Formal solution
+## Formal Solution
 
 The solution is to expand the hierarchical reading system with tools for grouping, continuity and reference. In this way, information can be connected without rewriting sections or drawing confusing marks in the margins.
 
@@ -24,7 +26,6 @@ The advanced tools of the system are:
 - **Declaration**: explains the meaning of each symbol in a specific session.
 
 ## 1. Superblock
-
 
 Many times, several paragraphs are written in sequence and the important idea is not contained in any single paragraph, but in **the full set of them together**. In those cases, the information should not be read as isolated fragments, but as a single conceptual unit.
 
@@ -43,7 +44,6 @@ The superblock functions as a larger block that contains multiple related sub-bl
 ![ejemplo-superbloque](../../Assets/ejemplo-superbloque.png)
 
 ## 2. Relationships
-
 
 A **Relationship** is a simple connecting line that links one block to another that belongs to the same line of thought. It indicates that a new idea is a direct continuation of a previous one, even if it has been interrupted by other information.
 
@@ -65,7 +65,6 @@ In those cases, Gray Notation recommends using **Groups**.
 
 ## 3. Groups
 
-
 A **Group** is a visual labelling system that brings together dispersed blocks that belong to the same topic. Its function is to enable filtered reading, so the user can quickly identify all related ideas without having to review the entire page in full.
 
 ### Definition
@@ -78,7 +77,7 @@ The group organises information by conceptual or thematic categories. Unlike a r
 - It allows the reader to review only the blocks that share the same symbol or label.
 - It is recommended for recurring topics, related concepts or revision material with shared themes.
 
-![ejemplo-grupos|685](../../Assets/ejemplo-grupos.png)
+![ejemplo-grupos](../../Assets/ejemplo-grupos.png)
 
 > [!tip]
 > **Customise your labels**
@@ -86,7 +85,6 @@ The group organises information by conceptual or thematic categories. Unlike a r
 > In the examples, a symbol or visual modifier such as a circle or square is usually used, but the system is flexible. The user may employ triangles, diamonds, letters or any quick and recognisable mark. The important thing is that the label is clear and consistent during the session.
 
 ## 4. Declaration of Groups
-
 
 As a lesson or study session progresses, it becomes easy to forget what a label means. The same symbol may represent a different topic depending on the context, especially when several groups are used on the same page.
 
@@ -102,22 +100,13 @@ The declaration is a small box containing the key to the reading system used at 
 - It should reflect the meaning of every label used.
 - It is especially useful in long classes, notes reviewed weeks later, or materials with several simultaneous topics.
 
-![ejemplo-grupos-avanzado|685](../../Assets/ejemplo-grupos-avanzado.png)
+![ejemplo-grupos-avanzado](../../Assets/ejemplo-grupos-avanzado.png)
 
 > [!note]
 > **Recommended placement**
 >
 > Although the declaration can be placed anywhere, the most practical option is to put it **in the top-left corner of the page**. In this position, it acts as an immediate visual index and makes each page easier to read.
 
-## Topic navigation
+---
 
-
-[Introduction](../Introduction.md) • [Basic Concepts](Basic-Concepts.md) • [Advanced Concepts](Advanced-Concepts.md) • [Structure and Format](Structure-and-Format.md) • [Additional Symbols](Additional-Symbols.md) • [Real Examples](../Real-Examples/README.md)
-
-### Next topics
-
-- [Structure and Format](Structure-and-Format.md)
-- [Additional Symbols](Additional-Symbols.md)
-- [Real Examples](../Real-Examples/README.md)
-
-
+**Navigation:** [← Previous: 2. Basic Concepts](Basic-Concepts.md) | [Next: 4. Structure and Format →](Structure-and-Format.md)

@@ -1,5 +1,8 @@
-﻿# Fundamental Principles of Reading
+﻿> [Home](../../README.md) • [1. Introduction](../Introduction.md) • **2. Basic Concepts** • [3. Advanced Concepts](Advanced-Concepts.md) • [4. Structure and Format](Structure-and-Format.md) • [5. Additional Symbols](Additional-Symbols.md) • [6. Real Examples](../Real-Examples/README.md)
 
+---
+
+# 2. Basic Concepts and Principles of Reading
 
 Gray Notation structures information as a visual system that allows readers to prioritise what matters most before examining the details. Its foundation rests on two core concepts: the **Block** and the **Notation Symbol**.
 
@@ -9,7 +12,7 @@ A **Block** is the basic unit of content in Gray Notation. It can be a sentence,
 
 When one block is nested within another, it establishes a relationship of subordination or elaboration. This allows thematic hierarchies to be formed naturally without losing the context of the main idea.
 
-### Usage rule
+### Usage rules
 
 - Each block contains a primary idea or unit of meaning.
 - A block may contain multiple elements, but it should remain focused on one clear idea.
@@ -24,16 +27,16 @@ This transforms a linear reading flow into a **hierarchical reading** process, w
 > [!important]
 > The notation used in Gray Notation is recursive. This means that **all symbols can be used within nested blocks**, while retaining their original meaning and level of importance.
 
-## Basic Symbols
+## 3. Basic Symbols
 
 The fundamental symbols of the system are described below, along with practical examples of their use.
 
 > [!note]
-> Note on visual representation
+> **Note on visual representation**
 >
 > For illustrative purposes, the images in this manual simulate an **A4 squared notebook**. This helps show clearly how spacing and symbol distribution are managed in real handwritten notes.
 
-## Arrow
+### Arrow
 
 This is the basic symbol of Gray Notation. Its function is to identify a block unambiguously.
 
@@ -43,13 +46,13 @@ When a block is preceded by an arrow, it is understood as the main unit within t
 
 ![ejemplo-anidacion](../../Assets/ejemplo-anidacion.png)
 
-## Circle
+### Circle
 
 This symbol is used to highlight a block containing key ideas. It indicates that the information is relevant and should be prioritised during revision.
 
 ![ejemplo-circulo](../../Assets/ejemplo-circulo.png)
 
-## Double Arrow
+### Double Arrow
 
 This is used to identify **information that is critical or more important than that marked with a circle**. It indicates a higher level of priority and requires immediate attention during study.
 
@@ -60,7 +63,7 @@ This is used to identify **information that is critical or more important than t
 
 ![ejemplo-dardo-doble-2](../../Assets/ejemplo-dardo-doble-2.png)
 
-## Concept
+### Concept
 
 This symbol indicates that the content of a block corresponds to a concept, definition, quotation or key term.
 
@@ -73,7 +76,7 @@ Its purpose is to distinguish theoretical or declarative explanations from other
 
 ![ejemplo-concepto-2](../../Assets/ejemplo-concepto-2.png)
 
-## List
+### List
 
 This allows several items to be broken down and organised within a single main block.
 
@@ -82,7 +85,7 @@ This allows several items to be broken down and organised within a single main b
 > [!warning]
 > The symbols used for list bullets are left to the user’s personal interpretation and visual preference.
 
-## Hierarchy of Importance
+## 4. Hierarchy of Importance
 
 Once the basic symbols are understood, it is necessary to establish their **order of precedence**.
 
@@ -92,7 +95,7 @@ The reading order, from lowest to highest priority, is as follows:
 
 ![ejemplo-jerarquia](../../Assets/ejemplo-jerarquia.png)
 
-## Comments
+## 5. Comments
 
 Comments are used to expand, clarify or complement the information in a block without interrupting the flow of the main text.
 
@@ -110,13 +113,6 @@ They act as visual extensions that allow personal notes, clarifications or nuanc
 
 ![ejemplo-comentarios-3](../../Assets/ejemplo-comentarios-3.png)
 
-## Topic navigation
 ---
 
-[Introduction](../Introduction.md) • [Basic Concepts](Basic-Concepts.md) • [Advanced Concepts](Advanced-Concepts.md) • [Structure and Format](Structure-and-Format.md) • [Additional Symbols](Additional-Symbols.md) • [Real Examples](../Real-Examples/README.md)
-
-### Next topics
-
-- [Advanced Concepts](Advanced-Concepts.md)
-- [Structure and Format](Structure-and-Format.md)
-- [Additional Symbols](Additional-Symbols.md)
+**Navigation:** [← Previous: 1. Introduction](../Introduction.md) | [Next: 3. Advanced Concepts →](Advanced-Concepts.md)

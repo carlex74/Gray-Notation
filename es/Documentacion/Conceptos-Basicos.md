@@ -1,4 +1,8 @@
-# Principios Fundamentales de Lectura
+> [Inicio](../../README.md) • [1. Introducción](../Introduccion.md) • **2. Conceptos Básicos** • [3. Conceptos Avanzados](Conceptos-Avanzados.md) • [4. Estructura y Formato](Estructura-y-Formato.md) • [5. Símbolos Adicionales](Simbolos-Adicionales.md) • [6. Ejemplos Reales](../Ejemplos-Reales/README.md)
+
+---
+
+# 2. Conceptos Básicos y Principios de Lectura
 
 Gray Notation organiza la información como una estructura visual que permite leer primero lo importante y luego el detalle. Su base está en dos conceptos fundamentales: el **Bloque** y el **Símbolo de Notación**.
 
@@ -8,7 +12,7 @@ Un **Bloque** es la unidad mínima de contenido en Gray Notation. Puede ser una 
 
 Cuando un bloque se anida dentro de otro, se establece una relación de subordinación o elaboración. Esto permite crear jerarquías conceptuales sin perder el contexto de la idea principal.
 
-### Regla de uso
+### Reglas de uso
 
 - Cada bloque contiene una idea principal o una unidad de sentido.
 - Un bloque puede incluir varios elementos, pero debe mantenerse como una idea clara.
@@ -23,16 +27,16 @@ Esto convierte una lectura lineal en una **lectura jerárquica**, donde la vista
 > [!important]
 > La simbología de Gray Notation es recursiva. Esto significa que **todos los símbolos pueden utilizarse dentro de bloques anidados**, manteniendo el mismo significado y grado de relevancia original.
 
-## Símbolos Básicos
+## 3. Símbolos Básicos
 
 A continuación se describen los símbolos fundamentales del sistema y su uso práctico.
 
 > [!note]
-> Nota sobre la representación visual
+> **Nota sobre la representación visual**
 >
 > Para fines ilustrativos, las imágenes de este manual simulan un **cuaderno cuadriculado de tamaño A4**. Esto permite mostrar de forma clara el manejo del espaciado y la distribución visual de los símbolos en apuntes físicos reales.
 
-## Dardo
+### Dardo
 
 Es el símbolo base de Gray Notation. Su función es identificar un bloque de manera inequívoca.
 
@@ -42,13 +46,13 @@ Cuando un bloque está precedido por un dardo, se entiende como la unidad princi
 
 ![ejemplo-anidacion](../../Assets/ejemplo-anidacion.png)
 
-## Círculo
+### Círculo
 
 Se utiliza para destacar un bloque con contenido clave. Indica que la información es relevante y debe priorizarse durante la revisión.
 
 ![ejemplo-circulo](../../Assets/ejemplo-circulo.png)
 
-## Dardo doble
+### Dardo Doble
 
 Se emplea para identificar **información crítica o de mayor importancia que la marcada con un círculo**. Señala un nivel de prioridad superior y exige atención inmediata durante el estudio.
 
@@ -59,7 +63,7 @@ Se emplea para identificar **información crítica o de mayor importancia que la
 
 ![ejemplo-dardo-doble-2](../../Assets/ejemplo-dardo-doble-2.png)
 
-## Concepto
+### Concepto
 
 Se usa para indicar que el contenido de un bloque corresponde a un concepto, una definición, una cita o un término clave.
 
@@ -72,7 +76,7 @@ Su propósito es distinguir la explicación teórica o declarativa del resto de 
 
 ![ejemplo-concepto-2](../../Assets/ejemplo-concepto-2.png)
 
-## Lista
+### Lista
 
 Permite desglosar y organizar varios elementos dentro de un mismo bloque principal.
 
@@ -81,7 +85,7 @@ Permite desglosar y organizar varios elementos dentro de un mismo bloque princip
 > [!warning]
 > Los símbolos utilizados para las viñetas de la lista quedan a libre elección del usuario, según su criterio visual y su gusto personal.
 
-## Jerarquía de Importancia
+## 4. Jerarquía de Importancia
 
 Una vez comprendidos los símbolos básicos, es necesario establecer su **orden de precedencia**.
 
@@ -91,7 +95,7 @@ El orden de lectura, de menor a mayor prioridad, es el siguiente:
 
 ![ejemplo-jerarquia](../../Assets/ejemplo-jerarquia.png)
 
-## Comentarios
+## 5. Comentarios
 
 Los comentarios sirven para ampliar, aclarar o complementar la información de un bloque sin interrumpir el flujo principal del texto.
 
@@ -109,15 +113,6 @@ Se utilizan como extensiones visuales que permiten añadir notas personales, acl
 
 ![ejemplo-comentarios-3](../../Assets/ejemplo-comentarios-3.png)
 
-## Navegación de temas
+---
 
-
-[Introducción](../Introduccion.md) • [Conceptos Básicos](Conceptos-Basicos.md) • [Conceptos Avanzados](Conceptos-Avanzados.md) • [Estructura y Formato](Estructura-y-Formato.md) • [Símbolos Adicionales](Simbolos-Adicionales.md) • [Ejemplos Reales](../Ejemplos-Reales/README.md)
-
-### Siguientes temas
-
-- [Conceptos Avanzados](Conceptos-Avanzados.md)
-- [Estructura y Formato](Estructura-y-Formato.md)
-- [Símbolos Adicionales](Simbolos-Adicionales.md)
-
-
+**Navegación:** [← Anterior: 1. Introducción](../Introduccion.md) | [Siguiente: 3. Conceptos Avanzados →](Conceptos-Avanzados.md)

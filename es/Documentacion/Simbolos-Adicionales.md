@@ -1,27 +1,29 @@
+> [Inicio](../../README.md) • [1. Introducción](../Introduccion.md) • [2. Conceptos Básicos](Conceptos-Basicos.md) • [3. Conceptos Avanzados](Conceptos-Avanzados.md) • [4. Estructura y Formato](Estructura-y-Formato.md) • **5. Símbolos Adicionales** • [6. Ejemplos Reales](../Ejemplos-Reales/README.md)
 
-
-## Navegación de temas
 ---
 
-[Introducción](../Introduccion.md) • [Conceptos Básicos](Conceptos-Basicos.md) • [Conceptos Avanzados](Conceptos-Avanzados.md) • [Estructura y Formato](Estructura-y-Formato.md) • [Símbolos Adicionales](Simbolos-Adicionales.md) • [Ejemplos Reales](../Ejemplos-Reales/README.md)
+# 5. Símbolos Adicionales
 
-# Lista de Tareas 
+Además de los símbolos estructurales y de prioridad de lectura, Gray Notation incorpora marcadores auxiliares pensados para la gestión activa del estudio: seguimiento de pendientes, recordatorios y validación de dudas.
 
+## 1. Lista de Tareas (`]`)
 
-
-Se usa el simbolo `]` para indicar una tarea 
+Se utiliza el símbolo `]` al inicio del bloque para indicar una tarea pendiente, un ejercicio por resolver o una acción concreta derivada de la clase.
 
 ![ejemplo-tareas](../../Assets/ejemplo-tareas.png)
-# Recordatorio
 
+## 2. Recordatorio (`!`)
 
-Se usa el símbolo `!` para indicar que un texto a recordar
+Se utiliza el símbolo `!` para señalar información administrativa o académica importante que debe recordarse (como fechas de exámenes, entregas, bibliografía recomendada o advertencias del profesor).
 
 ![ejemplo-recordatorio](../../Assets/ejemplo-recordatorio.png)
 
-# Duda
+## 3. Duda (`~`)
 
-
-Se usa el símbolo `~` para indicar que un texto es dudoso o no se tiene certeza clara de la afirmación.
+Se utiliza el símbolo `~` para indicar que un bloque contiene una afirmación dudosa, un concepto que no quedó del todo claro durante la explicación o un dato que requiere verificación posterior.
 
 ![ejemplo-duda](../../Assets/ejemplo-duda.png)
+
+---
+
+**Navegación:** [← Anterior: 4. Estructura y Formato](Estructura-y-Formato.md) | [Siguiente: 6. Ejemplos Reales →](../Ejemplos-Reales/README.md)

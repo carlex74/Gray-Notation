@@ -1,0 +1,7 @@
+# Obsidian configuration and workspace
+.obsidian/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
