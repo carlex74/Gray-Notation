@@ -10,19 +10,19 @@ This section showcases real-world university notes taken live using **Gray Notat
 
 ## Example 1
 
-![ejemplo-1](./Assets/ejemplo-1.png)
+![ejemplo-1](../../Assets/Ejemplos-Reales/ejemplo-1.png)
 
 ---
 
 ## Example 2
 
-![ejemplo-2](./Assets/ejemplo-2.png)
+![ejemplo-2](../../Assets/Ejemplos-Reales/ejemplo-2.png)
 
 ---
 
 ## Example 3
 
-![ejemplo-3](./Assets/ejemplo-3.png)
+![ejemplo-3](../../Assets/Ejemplos-Reales/ejemplo-3.png)
 
 ---
 

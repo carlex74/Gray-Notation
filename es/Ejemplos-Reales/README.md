@@ -10,19 +10,19 @@ En esta sección se presentan casos reales de apuntes universitarios tomados en 
 
 ## Ejemplo 1
 
-![ejemplo-1](./Assets/ejemplo-1.png)
+![ejemplo-1](../../Assets/Ejemplos-Reales/ejemplo-1.png)
 
 ---
 
 ## Ejemplo 2
 
-![ejemplo-2](./Assets/ejemplo-2.png)
+![ejemplo-2](../../Assets/Ejemplos-Reales/ejemplo-2.png)
 
 ---
 
 ## Ejemplo 3
 
-![ejemplo-3](./Assets/ejemplo-3.png)
+![ejemplo-3](../../Assets/Ejemplos-Reales/ejemplo-3.png)
 
 ---
 
