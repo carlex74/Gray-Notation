@@ -8,7 +8,7 @@
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?style=flat-square)](LICENSE)
   [![Languages: ES | EN](https://img.shields.io/badge/Docs-ES%20%7C%20EN-4a4a4a?style=flat-square)](#manual--documentation)
 
-  [**Leer Manual en Español**](es/Introduccion.md) • [**Read Manual in English**](en/Introduction.md) • [**Contribuir / Contribute**](CONTRIBUTING.md)
+  [**Leer Manual en Español**](es/Introduccion.md) • [**Read Manual in English**](en/Introduction.md) • [**Cheat Sheet (PDF)**](resources/Gray-Notation-CheatSheet.pdf) • [**Contribuir / Contribute**](CONTRIBUTING.md)
 </div>
 
 ---
@@ -32,6 +32,10 @@ Taking notes in fast-paced or highly theoretical classes usually leads to:
 - **Fragmented ideas:** Topics get cut off when the class jumps to something else and later returns to the original thread.
 - **Colour dependency:** Relying on multiple highlighters, rulers, or coloured pens just to make sense of the page.
 
+#### Traditional Notes vs. Gray Notation
+
+![Comparison between traditional notes and Gray Notation](resources/comparativa.jpg)
+
 > [!important]
 > **Gray Notation** is currently in **Beta (`v0.9`)**, so new examples and refinements are actively being added.
 
@@ -53,6 +57,10 @@ The documentation is organized sequentially to guide you from core principles to
 | **4** | [**Estructura y Formato**](es/Documentacion/Estructura-y-Formato.md)<br>*(Jerarquías de títulos, separadores y diseño de hoja)* | [**Structure and Format**](en/Documentation/Structure-and-Format.md)<br>*(Headings, separators, and page layout rules)* |
 | **5** | [**Símbolos Adicionales**](es/Documentacion/Simbolos-Adicionales.md)<br>*(Tareas, dudas, recordatorios y signos extra)* | [**Additional Symbols**](en/Documentation/Additional-Symbols.md)<br>*(Tasks, doubts, reminders, and extra marks)* |
 | **6** | [**Ejemplos Reales**](es/Ejemplos-Reales/README.md)<br>*(Apuntes universitarios aplicados en la práctica)* | [**Real Examples**](en/Real-Examples/README.md)<br>*(University notes applied in practice)* |
+
+### Quick Reference / Referencia Rápida
+
+* [**Gray Notation Cheat Sheet (PDF)**](resources/Gray-Notation-CheatSheet.pdf) — Printable one-page summary of the core symbols and reading hierarchy / *Resumen imprimible de una página con los símbolos esenciales y la jerarquía de lectura.*
 
 ---
 

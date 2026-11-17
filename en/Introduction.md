@@ -13,6 +13,8 @@ In the digital age, information management has mature tools for structuring data
 * **Flat text:** Notes where all the text looks the same, making it difficult to quickly identify key ideas, formulas, or definitions.
 * **Logistical dependence:** Systems that require multiple highlighters, colored pens, or rulers to maintain order.
 
+![Comparison between traditional notes and Gray Notation](../resources/comparativa.jpg)
+
 ## What Is Gray Notation?
 
 Gray Notation was created as a **standardized, modular, and monochromatic system** designed specifically to solve these problems in the analog environment.

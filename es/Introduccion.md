@@ -13,6 +13,8 @@ En la era digital, la gestión de la información cuenta con herramientas madura
 * **Lectura plana:** Apuntes donde todo el texto se ve igual, dificultando la identificación rápida de ideas clave, fórmulas o definiciones.
 * **Dependencia logística:** Sistemas que requieren múltiples resaltadores, bolígrafos de colores o reglas para mantener el orden.
 
+![Comparativa entre apuntes tradicionales y Gray Notation](../resources/comparativa.jpg)
+
 ## ¿Qué es Gray Notation?
 
 Gray Notation nace como un **sistema estandarizado, modular y monocromático** diseñado específicamente para resolver estos problemas en el medio analógico.

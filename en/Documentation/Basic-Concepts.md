@@ -113,6 +113,9 @@ They act as visual extensions that allow personal notes, clarifications or nuanc
 
 ![ejemplo-comentarios-3](../../Assets/ejemplo-comentarios-3.png)
 
+> [!tip]
+> **Printable quick reference:** You can download the [**Gray Notation Cheat Sheet (PDF)**](../../resources/Gray-Notation-CheatSheet.pdf) containing a summary of the core symbols and reading hierarchy.
+
 ---
 
 **Navigation:** [← Previous: 1. Introduction](../Introduction.md) | [Next: 3. Advanced Concepts →](Advanced-Concepts.md)

@@ -113,6 +113,9 @@ Se utilizan como extensiones visuales que permiten añadir notas personales, acl
 
 ![ejemplo-comentarios-3](../../Assets/ejemplo-comentarios-3.png)
 
+> [!tip]
+> **Referencia rápida para imprimir:** Puedes descargar el [**Cheat Sheet de Gray Notation (PDF)**](../../resources/Gray-Notation-CheatSheet.pdf) con el resumen de los símbolos básicos y su orden de lectura.
+
 ---
 
 **Navegación:** [← Anterior: 1. Introducción](../Introduccion.md) | [Siguiente: 3. Conceptos Avanzados →](Conceptos-Avanzados.md)
